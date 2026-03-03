@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 1,
+    "riddle": "🤔 Ana 3ndi dar bla bab, w f dakhli kayn lhsab. Chnou ana?",
+    "answer": "lbida"
+  },
+  {
+    "id": 2,
+    "riddle": "🧮 Hseb: 23 - 5 = ?",
+    "answer": "18"
+  },
+  {
+    "id": 3,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f chamal, bla7a 3la shi9 lbhar l'abyad. Awwel 7arf T...",
+    "answer": "tanger"
+  },
+  {
+    "id": 4,
+    "riddle": "🗣️ Translate: bnt = ??? (in English)",
+    "answer": "girl"
+  },
+  {
+    "id": 5,
+    "riddle": "⌨️ Type exactly: 0zjqg4q",
+    "answer": "0zjqg4q"
+  },
+  {
+    "id": 6,
+    "riddle": "🤔 Kanjri bla rijlin, w kanherreb bla 3ynin. Chnou ana?",
+    "answer": "lma"
+  },
+  {
+    "id": 7,
+    "riddle": "🧮 Hseb: 80 / 10 = ?",
+    "answer": "8"
+  },
+  {
+    "id": 8,
+    "riddle": "🇲🇦 Mdina maghribiya hiya 3asima dyal lmaghrib. Awwel 7arf R...",
+    "answer": "rabat"
+  },
+  {
+    "id": 9,
+    "riddle": "🗣️ Translate: wld = ??? (in English)",
+    "answer": "boy"
+  },
+  {
+    "id": 10,
+    "riddle": "⌨️ Type exactly: oa3dscu",
+    "answer": "oa3dscu"
+  },
+  {
+    "id": 11,
+    "riddle": "🤔 Kbir mn dar, sghir mn bab. Chnou ana?",
+    "answer": "daw dyal shems"
+  },
+  {
+    "id": 12,
+    "riddle": "🧮 Hseb: 28 / 7 = ?",
+    "answer": "4"
+  },
+  {
+    "id": 13,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f chamal, m3rofa b medina diyalha l'qdima w blghrisiyyin. Awwel 7arf T...",
+    "answer": "tetouan"
+  },
+  {
+    "id": 14,
+    "riddle": "🗣️ Translate: ma = ??? (in English)",
+    "answer": "water"
+  },
+  {
+    "id": 15,
+    "riddle": "⌨️ Type exactly: mn ba3d",
+    "answer": "mn ba3d"
+  },
+  {
+    "id": 16,
+    "riddle": "🤔 Kolchi kaykhafha walakin kolchi kaykhdemha. Chnou hiya?",
+    "answer": "l3naqa"
+  },
+  {
+    "id": 17,
+    "riddle": "🧮 Hseb: 3 * 5 = ?",
+    "answer": "15"
+  },
+  {
+    "id": 18,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f wist lmaghrib, m3rofa b chjar zitoun. Awwel 7arf M...",
+    "answer": "meknes"
+  },
+  {
+    "id": 19,
+    "riddle": "🗣️ Translate: dar = ??? (in English)",
+    "answer": "house"
+  },
+  {
+    "id": 20,
+    "riddle": "⌨️ Type exactly: 674482",
+    "answer": "674482"
+  },
+  {
+    "id": 21,
+    "riddle": "🤔 Kayna f 7it, bla demm bla rit. Chnou ana?",
+    "answer": "zhoura"
+  },
+  {
+    "id": 22,
+    "riddle": "🧮 Hseb: 17 - 4 = ?",
+    "answer": "13"
+  },
+  {
+    "id": 23,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f sharq, 3andha jami3a l'qdima f l3alam. Awwel 7arf F...",
+    "answer": "fes"
+  },
+  {
+    "id": 24,
+    "riddle": "🗣️ Translate: shms = ??? (in English)",
+    "answer": "sun"
+  },
+  {
+    "id": 25,
+    "riddle": "⌨️ Type exactly: zanka",
+    "answer": "zanka"
+  },
+  {
+    "id": 26,
+    "riddle": "🤔 Kanmshi m3ak kol fin temshi, walakin ma kanshufksh. Chnou ana?",
+    "answer": "dell diyalek"
+  },
+  {
+    "id": 27,
+    "riddle": "🧮 Hseb: 2 * 6 = ?",
+    "answer": "12"
+  },
+  {
+    "id": 28,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f jnoub, bla7a 3la kasba w derb. Awwel 7arf O...",
+    "answer": "ouarzazate"
+  },
+  {
+    "id": 29,
+    "riddle": "🗣️ Translate: lil = ??? (in English)",
+    "answer": "night"
+  },
+  {
+    "id": 30,
+    "riddle": "⌨️ Type exactly: shukran",
+    "answer": "shukran"
+  },
+  {
+    "id": 31,
+    "riddle": "🤔 Kol ma tqrb mni, tb3ed. Kol ma tb3ed mni, t9rb. Chnou ana?",
+    "answer": "ufuq"
+  },
+  {
+    "id": 32,
+    "riddle": "🧮 Hseb: 6 * 3 = ?",
+    "answer": "18"
+  },
+  {
+    "id": 33,
+    "riddle": "🇲🇦 Mdina maghribiya kayna 3la shi9 l'atlantik, m3rofa b lhawt. Awwel 7arf A...",
+    "answer": "agadir"
+  },
+  {
+    "id": 34,
+    "riddle": "🗣️ Translate: nhar = ??? (in English)",
+    "answer": "day"
+  },
+  {
+    "id": 35,
+    "riddle": "⌨️ Type exactly: bab",
+    "answer": "bab"
+  },
+  {
+    "id": 36,
+    "riddle": "🤔 3ndi 7jrat bzzaf bla tiban. Chnou ana?",
+    "answer": "rman"
+  },
+  {
+    "id": 37,
+    "riddle": "🧮 Hseb: 64 + 87 = ?",
+    "answer": "151"
+  },
+  {
+    "id": 38,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f jnoub, 9rib mn s7ra, m3rofa b nkhlat. Awwel 7arf Z...",
+    "answer": "zagora"
+  },
+  {
+    "id": 39,
+    "riddle": "🗣️ Translate: ktab = ??? (in English)",
+    "answer": "book"
+  },
+  {
+    "id": 40,
+    "riddle": "⌨️ Type exactly: watan",
+    "answer": "watan"
+  },
+  {
+    "id": 41,
+    "riddle": "🤔 Ila ghbit, ydew. Ila jit, y7shmu. Chnou ana?",
+    "answer": "qamar"
+  },
+  {
+    "id": 42,
+    "riddle": "🧮 Hseb: 11 * 11 = ?",
+    "answer": "121"
+  },
+  {
+    "id": 43,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f wist, m3rofa b jami3 lkotobiya. Awwel 7arf M...",
+    "answer": "marrakech"
+  },
+  {
+    "id": 44,
+    "riddle": "🗣️ Translate: khobz = ??? (in English)",
+    "answer": "bread"
+  },
+  {
+    "id": 45,
+    "riddle": "⌨️ Type exactly: 776364",
+    "answer": "776364"
+  },
+  {
+    "id": 46,
+    "riddle": "🤔 Kayjri bla rijlin w kayoqf bla yidin. Chnou ana?",
+    "answer": "sa3a"
+  },
+  {
+    "id": 47,
+    "riddle": "🧮 Hseb: 67 + 13 = ?",
+    "answer": "80"
+  },
+  {
+    "id": 48,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f char9. Awwel 7arf O...",
+    "answer": "oujda"
+  },
+  {
+    "id": 49,
+    "riddle": "🗣️ Translate: 9alb = ??? (in English)",
+    "answer": "heart"
+  },
+  {
+    "id": 50,
+    "riddle": "⌨️ Type exactly: goalo",
+    "answer": "goalo"
+  },
+  {
+    "id": 51,
+    "riddle": "🤔 Kol nhar kaymout w kol lila kayHya. Chnou ana?",
+    "answer": "sham3a"
+  },
+  {
+    "id": 52,
+    "riddle": "🧮 Hseb: 27 - 8 = ?",
+    "answer": "19"
+  },
+  {
+    "id": 53,
+    "riddle": "🇲🇦 Mdina maghribiya kayna 3la shi9 lbhar, m3rofa b mina diyalha l'kbira. Awwel 7arf C...",
+    "answer": "casablanca"
+  },
+  {
+    "id": 54,
+    "riddle": "🗣️ Translate: 3in = ??? (in English)",
+    "answer": "eye"
+  },
+  {
+    "id": 55,
+    "riddle": "⌨️ Type exactly: lil",
+    "answer": "lil"
+  },
+  {
+    "id": 56,
+    "riddle": "🤔 3ndi ras bla 3ynin, w jism bla d'hem. Chnou ana?",
+    "answer": "ttoum"
+  },
+  {
+    "id": 57,
+    "riddle": "🧮 Hseb: 24 + 56 = ?",
+    "answer": "80"
+  },
+  {
+    "id": 58,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f rif, m3rofa b lwa z-zin. Awwel 7arf A...",
+    "answer": "al hoceima"
+  },
+  {
+    "id": 59,
+    "riddle": "🗣️ Translate: ras = ??? (in English)",
+    "answer": "head"
+  },
+  {
+    "id": 60,
+    "riddle": "⌨️ Type exactly: 598611",
+    "answer": "598611"
+  },
+  {
+    "id": 61,
+    "riddle": "🤔 Kanghsel kolchi walakin ana mansalbch. Chnou ana?",
+    "answer": "lma"
+  },
+  {
+    "id": 62,
+    "riddle": "🧮 Hseb: 72 / 9 = ?",
+    "answer": "8"
+  },
+  {
+    "id": 63,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f s7ra, m3rofa b 3erg chebbi. Awwel 7arf M...",
+    "answer": "merzouga"
+  },
+  {
+    "id": 64,
+    "riddle": "🗣️ Translate: yedd = ??? (in English)",
+    "answer": "hand"
+  },
+  {
+    "id": 65,
+    "riddle": "⌨️ Type exactly: mdina",
+    "answer": "mdina"
+  },
+  {
+    "id": 66,
+    "riddle": "🤔 Kolchi kayakol walakin huwwa mashi jay3. Chnou ana?",
+    "answer": "nar"
+  },
+  {
+    "id": 67,
+    "riddle": "🧮 Hseb: 58 - 6 = ?",
+    "answer": "52"
+  },
+  {
+    "id": 68,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f janub gharbi. Awwel 7arf L...",
+    "answer": "laayoune"
+  },
+  {
+    "id": 69,
+    "riddle": "🗣️ Translate: rijl = ??? (in English)",
+    "answer": "foot"
+  },
+  {
+    "id": 70,
+    "riddle": "⌨️ Type exactly: gfkfsii8",
+    "answer": "gfkfsii8"
+  },
+  {
+    "id": 71,
+    "riddle": "🤔 Kbir bzzaf walakin ma3ndouch wzen. Chnou ana?",
+    "answer": "dell"
+  },
+  {
+    "id": 72,
+    "riddle": "🧮 Hseb: 36 + 87 = ?",
+    "answer": "123"
+  },
+  {
+    "id": 73,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f wist, m3rofa b sbab atlas. Awwel 7arf B...",
+    "answer": "beni mellal"
+  },
+  {
+    "id": 74,
+    "riddle": "🗣️ Translate: klab = ??? (in English)",
+    "answer": "dogs"
+  },
+  {
+    "id": 75,
+    "riddle": "⌨️ Type exactly: 717576",
+    "answer": "717576"
+  },
+  {
+    "id": 76,
+    "riddle": "🤔 3ndi sniya bla 7did. Chnou ana?",
+    "answer": "lisan"
+  },
+  {
+    "id": 77,
+    "riddle": "🧮 Hseb: 5 * 6 = ?",
+    "answer": "30"
+  },
+  {
+    "id": 78,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f jnoub sharqi, m3rofa b gorge dyal dadess. Awwel 7arf T...",
+    "answer": "tinghir"
+  },
+  {
+    "id": 79,
+    "riddle": "🗣️ Translate: 9ta = ??? (in English)",
+    "answer": "cat"
+  },
+  {
+    "id": 80,
+    "riddle": "⌨️ Type exactly: 8h2jszuu",
+    "answer": "8h2jszuu"
+  },
+  {
+    "id": 81,
+    "riddle": "🤔 Kanjri mn ghir rijlin w kanshreb mn ghir tum. Chnou ana?",
+    "answer": "nahr"
+  },
+  {
+    "id": 82,
+    "riddle": "🧮 Hseb: 67 + 10 = ?",
+    "answer": "77"
+  },
+  {
+    "id": 83,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f gharb. Awwel 7arf S...",
+    "answer": "safi"
+  },
+  {
+    "id": 84,
+    "riddle": "🗣️ Translate: tir = ??? (in English)",
+    "answer": "bird"
+  },
+  {
+    "id": 85,
+    "riddle": "⌨️ Type exactly: shbbak",
+    "answer": "shbbak"
+  },
+  {
+    "id": 86,
+    "riddle": "🤔 Kol nhar kaykhdem walakin ma kayakhod ajr. Chnou ana?",
+    "answer": "shi7"
+  },
+  {
+    "id": 87,
+    "riddle": "🧮 Hseb: 24 / 4 = ?",
+    "answer": "6"
+  },
+  {
+    "id": 88,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f chamal, m3rofa b lwa z-zraq. Awwel 7arf C...",
+    "answer": "chefchaouen"
+  },
+  {
+    "id": 89,
+    "riddle": "🗣️ Translate: bhar = ??? (in English)",
+    "answer": "sea"
+  },
+  {
+    "id": 90,
+    "riddle": "⌨️ Type exactly: 420693",
+    "answer": "420693"
+  },
+  {
+    "id": 91,
+    "riddle": "🤔 3ndi 4 rijlin walakin ma kanmchiich. Chnou ana?",
+    "answer": "tabla"
+  },
+  {
+    "id": 92,
+    "riddle": "🧮 Hseb: 46 - 4 = ?",
+    "answer": "42"
+  },
+  {
+    "id": 93,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f gharb, m3rofa b chor w r-ri7. Awwel 7arf E...",
+    "answer": "essaouira"
+  },
+  {
+    "id": 94,
+    "riddle": "🗣️ Translate: jbal = ??? (in English)",
+    "answer": "mountain"
+  },
+  {
+    "id": 95,
+    "riddle": "⌨️ Type exactly: 940459",
+    "answer": "940459"
+  },
+  {
+    "id": 96,
+    "riddle": "🤔 Ila 9attetni, kanbi9. Ila ma 9attetniich, kanrjou3. Chnou ana?",
+    "answer": "sham3a"
+  },
+  {
+    "id": 97,
+    "riddle": "🧮 Hseb: 8 / 2 = ?",
+    "answer": "4"
+  },
+  {
+    "id": 98,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f jnoub, m3rofa b tafilalt. Awwel 7arf E...",
+    "answer": "erfoud"
+  },
+  {
+    "id": 99,
+    "riddle": "🗣️ Translate: shjar = ??? (in English)",
+    "answer": "tree"
+  },
+  {
+    "id": 100,
+    "riddle": "⌨️ Type exactly: ij9fz6",
+    "answer": "ij9fz6"
+  },
+  {
+    "id": 101,
+    "riddle": "🤔 3ndi dar bla bab. Chnou ana?",
+    "answer": "bida"
+  },
+  {
+    "id": 102,
+    "riddle": "🧮 Hseb: 22 / 2 = ?",
+    "answer": "11"
+  },
+  {
+    "id": 103,
+    "riddle": "🇲🇦 Chnou howa l akel maghribi lli kaydir b l7out w khdar w z3fran? Awwel 7arf C...",
+    "answer": "chermoula"
+  },
+  {
+    "id": 104,
+    "riddle": "🗣️ Translate: warda = ??? (in English)",
+    "answer": "flower"
+  },
+  {
+    "id": 105,
+    "riddle": "⌨️ Type exactly: 862084",
+    "answer": "862084"
+  },
+  {
+    "id": 106,
+    "riddle": "🤔 Kayji lil w kayji nhar, walakin ma kaymchiich. Chnou ana?",
+    "answer": "waqt"
+  },
+  {
+    "id": 107,
+    "riddle": "🧮 Hseb: 7 * 3 = ?",
+    "answer": "21"
+  },
+  {
+    "id": 108,
+    "riddle": "🇲🇦 Chnou hiya l7elwa maghribiya lli kaydiroha mn l3sel w loz? Awwel 7arf C...",
+    "answer": "chebakia"
+  },
+  {
+    "id": 109,
+    "riddle": "🗣️ Translate: bab = ??? (in English)",
+    "answer": "door"
+  },
+  {
+    "id": 110,
+    "riddle": "⌨️ Type exactly: flous",
+    "answer": "flous"
+  },
+  {
+    "id": 111,
+    "riddle": "🤔 3ndi snin bzzaf walakin ma kbertch. Chnou ana?",
+    "answer": "najma"
+  },
+  {
+    "id": 112,
+    "riddle": "🧮 Hseb: 42 / 6 = ?",
+    "answer": "7"
+  },
+  {
+    "id": 113,
+    "riddle": "🇲🇦 Chnou hiya l makla maghribiya lli katdir f wra9 dyal 3jina? Awwel 7arf B...",
+    "answer": "briouate"
+  },
+  {
+    "id": 114,
+    "riddle": "🗣️ Translate: tabla = ??? (in English)",
+    "answer": "table"
+  },
+  {
+    "id": 115,
+    "riddle": "⌨️ Type exactly: fyv4",
+    "answer": "fyv4"
+  },
+  {
+    "id": 116,
+    "riddle": "🤔 Kolchi kayshofni walakin ana mashi visible. Chnou ana?",
+    "answer": "hawa"
+  },
+  {
+    "id": 117,
+    "riddle": "🧮 Hseb: 60 / 12 = ?",
+    "answer": "5"
+  },
+  {
+    "id": 118,
+    "riddle": "🇲🇦 Chnou howa shrab maghribi m3rouf kaydirouH b na3na3? Awwel 7arf A...",
+    "answer": "atay"
+  },
+  {
+    "id": 119,
+    "riddle": "🗣️ Translate: kursi = ??? (in English)",
+    "answer": "chair"
+  },
+  {
+    "id": 120,
+    "riddle": "⌨️ Type exactly: 458444",
+    "answer": "458444"
+  },
+  {
+    "id": 121,
+    "riddle": "🤔 Kandor walakin ma 3ndiich motor. Chnou ana?",
+    "answer": "rih"
+  },
+  {
+    "id": 122,
+    "riddle": "🧮 Hseb: 35 / 5 = ?",
+    "answer": "7"
+  },
+  {
+    "id": 123,
+    "riddle": "🇲🇦 Chnou hiya l7elwa maghribiya lli kaydiroha f 3id? Awwel 7arf K...",
+    "answer": "kaab el ghzal"
+  },
+  {
+    "id": 124,
+    "riddle": "🗣️ Translate: lbis = ??? (in English)",
+    "answer": "clothes"
+  },
+  {
+    "id": 125,
+    "riddle": "⌨️ Type exactly: smHliya",
+    "answer": "smHliya"
+  },
+  {
+    "id": 126,
+    "riddle": "🤔 3ndi dkhoul walakin ma 3ndiich khrouj. Chnou ana?",
+    "answer": "9abr"
+  },
+  {
+    "id": 127,
+    "riddle": "🧮 Hseb: 10 * 8 = ?",
+    "answer": "80"
+  },
+  {
+    "id": 128,
+    "riddle": "🇲🇦 Chnou howa l festival m3rouf kaydaro f marrakech kol 3am? Awwel 7arf F...",
+    "answer": "festival gnaoua"
+  },
+  {
+    "id": 129,
+    "riddle": "🗣️ Translate: 7lib = ??? (in English)",
+    "answer": "milk"
+  },
+  {
+    "id": 130,
+    "riddle": "⌨️ Type exactly: 175489",
+    "answer": "175489"
+  },
+  {
+    "id": 131,
+    "riddle": "🤔 Ila zedti liya, qelti. Ila naqesti meni, zedti. Chnou ana?",
+    "answer": "7ofra"
+  },
+  {
+    "id": 132,
+    "riddle": "🧮 Hseb: 58 + 90 = ?",
+    "answer": "148"
+  },
+  {
+    "id": 133,
+    "riddle": "🇲🇦 Chnou hiya l7ayk maghribi lli katlebsou nsa? Awwel 7arf J...",
+    "answer": "jellaba"
+  },
+  {
+    "id": 134,
+    "riddle": "🗣️ Translate: bida = ??? (in English)",
+    "answer": "egg"
+  },
+  {
+    "id": 135,
+    "riddle": "⌨️ Type exactly: kpciqa9m",
+    "answer": "kpciqa9m"
+  },
+  {
+    "id": 136,
+    "riddle": "🤔 Kanghsel walakin machi 7amam. Chnou ana?",
+    "answer": "matar"
+  },
+  {
+    "id": 137,
+    "riddle": "🧮 Hseb: 11 - 6 = ?",
+    "answer": "5"
+  },
+  {
+    "id": 138,
+    "riddle": "🇲🇦 Chnou hiya l7ayk maghribi lli kaylbsou rjal f 3id? Awwel 7arf D...",
+    "answer": "djellaba"
+  },
+  {
+    "id": 139,
+    "riddle": "🗣️ Translate: djejer = ??? (in English)",
+    "answer": "chicken"
+  },
+  {
+    "id": 140,
+    "riddle": "⌨️ Type exactly: fclti",
+    "answer": "fclti"
+  },
+  {
+    "id": 141,
+    "riddle": "🤔 3ndi sha3r bla ras. Chnou ana?",
+    "answer": "tortra"
+  },
+  {
+    "id": 142,
+    "riddle": "🧮 Hseb: 4 * 10 = ?",
+    "answer": "40"
+  },
+  {
+    "id": 143,
+    "riddle": "🇲🇦 Chnou howa l felsa3 dyal lmaghrib? Awwel 7arf D...",
+    "answer": "dirham"
+  },
+  {
+    "id": 144,
+    "riddle": "🗣️ Translate: l7ut = ??? (in English)",
+    "answer": "fish"
+  },
+  {
+    "id": 145,
+    "riddle": "⌨️ Type exactly: 7it",
+    "answer": "7it"
+  },
+  {
+    "id": 146,
+    "riddle": "🤔 Ana f yidik walakin ma 9adertch tmesseni. Chnou ana?",
+    "answer": "dell"
+  },
+  {
+    "id": 147,
+    "riddle": "🧮 Hseb: 24 / 2 = ?",
+    "answer": "12"
+  },
+  {
+    "id": 148,
+    "riddle": "🇲🇦 Chnou howa jbal l'akbar f lmaghrib? Awwel 7arf T...",
+    "answer": "toubkal"
+  },
+  {
+    "id": 149,
+    "riddle": "🗣️ Translate: tffah = ??? (in English)",
+    "answer": "apple"
+  },
+  {
+    "id": 150,
+    "riddle": "⌨️ Type exactly: 674627",
+    "answer": "674627"
+  },
+  {
+    "id": 151,
+    "riddle": "🤔 3ndi jnah bla ttiar. Chnou ana?",
+    "answer": "mikyana"
+  },
+  {
+    "id": 152,
+    "riddle": "🧮 Hseb: 91 - 2 = ?",
+    "answer": "89"
+  },
+  {
+    "id": 153,
+    "riddle": "🇲🇦 Chnou howa l bhar lli kayna 3la yimna dyal lmaghrib? Awwel 7arf M...",
+    "answer": "mediterrane"
+  },
+  {
+    "id": 154,
+    "riddle": "🗣️ Translate: limun = ??? (in English)",
+    "answer": "lemon"
+  },
+  {
+    "id": 155,
+    "riddle": "⌨️ Type exactly: p61t",
+    "answer": "p61t"
+  },
+  {
+    "id": 156,
+    "riddle": "🤔 Kol nhar kanfna walakin ma kanmoutch. Chnou ana?",
+    "answer": "sham3a"
+  },
+  {
+    "id": 157,
+    "riddle": "🧮 Hseb: 2 * 4 = ?",
+    "answer": "8"
+  },
+  {
+    "id": 158,
+    "riddle": "🇲🇦 Chnou howa l nahr l'akbar f lmaghrib? Awwel 7arf O...",
+    "answer": "oum rbia"
+  },
+  {
+    "id": 159,
+    "riddle": "🗣️ Translate: 3inab = ??? (in English)",
+    "answer": "grapes"
+  },
+  {
+    "id": 160,
+    "riddle": "⌨️ Type exactly: lbara7",
+    "answer": "lbara7"
+  },
+  {
+    "id": 161,
+    "riddle": "🤔 3ndi ras w rijlin walakin machi insan. Chnou ana?",
+    "answer": "9asba"
+  },
+  {
+    "id": 162,
+    "riddle": "🧮 Hseb: 37 - 9 = ?",
+    "answer": "28"
+  },
+  {
+    "id": 163,
+    "riddle": "🇲🇦 Chnou hiya l jami3a l'qdima f l3alam kayna f fas? Awwel 7arf Q...",
+    "answer": "qarawiyin"
+  },
+  {
+    "id": 164,
+    "riddle": "🗣️ Translate: tmatem = ??? (in English)",
+    "answer": "tomatoes"
+  },
+  {
+    "id": 165,
+    "riddle": "⌨️ Type exactly: 683451",
+    "answer": "683451"
+  },
+  {
+    "id": 166,
+    "riddle": "🤔 Ma 3ndiich 3ynin walakin kanchouf. Chnou ana?",
+    "answer": "miraya"
+  },
+  {
+    "id": 167,
+    "riddle": "🧮 Hseb: 71 + 67 = ?",
+    "answer": "138"
+  },
+  {
+    "id": 168,
+    "riddle": "🇲🇦 Chnou hiya l medina lli m3rofa b darb debbaghin? Awwel 7arf F...",
+    "answer": "fes"
+  },
+  {
+    "id": 169,
+    "riddle": "🗣️ Translate: khodra = ??? (in English)",
+    "answer": "vegetables"
+  },
+  {
+    "id": 170,
+    "riddle": "⌨️ Type exactly: 998749",
+    "answer": "998749"
+  },
+  {
+    "id": 171,
+    "riddle": "🤔 Kol chi kaysemani walakin ana machi isem. Chnou ana?",
+    "answer": "sda"
+  },
+  {
+    "id": 172,
+    "riddle": "🧮 Hseb: 4 * 12 = ?",
+    "answer": "48"
+  },
+  {
+    "id": 173,
+    "riddle": "🇲🇦 Chnou howa l 7aiwan lli kayn 3la dirham dyal 50? Awwel 7arf A...",
+    "answer": "asad"
+  },
+  {
+    "id": 174,
+    "riddle": "🗣️ Translate: lfakya = ??? (in English)",
+    "answer": "fruit"
+  },
+  {
+    "id": 175,
+    "riddle": "⌨️ Type exactly: vyozs",
+    "answer": "vyozs"
+  },
+  {
+    "id": 176,
+    "riddle": "🤔 Kanmchi m3ak walakin machi s7abak. Chnou ana?",
+    "answer": "dell"
+  },
+  {
+    "id": 177,
+    "riddle": "🧮 Hseb: 8 * 11 = ?",
+    "answer": "88"
+  },
+  {
+    "id": 178,
+    "riddle": "🇲🇦 Chnou hiya l makla maghribiya lli katdir b l7out w khmira f ramadan? Awwel 7arf H...",
+    "answer": "harira"
+  },
+  {
+    "id": 179,
+    "riddle": "🗣️ Translate: lmdrasa = ??? (in English)",
+    "answer": "school"
+  },
+  {
+    "id": 180,
+    "riddle": "⌨️ Type exactly: 130944",
+    "answer": "130944"
+  },
+  {
+    "id": 181,
+    "riddle": "🤔 Ila 7meltiha, thqel. Ila sir7tiha, tkhesef. Chnou hiya?",
+    "answer": "sir"
+  },
+  {
+    "id": 182,
+    "riddle": "🧮 Hseb: 110 / 11 = ?",
+    "answer": "10"
+  },
+  {
+    "id": 183,
+    "riddle": "🇲🇦 Chnou hiya l madina lli kayna fiha jami3 l'koutoubia? Awwel 7arf M...",
+    "answer": "marrakech"
+  },
+  {
+    "id": 184,
+    "riddle": "🗣️ Translate: ostaz = ??? (in English)",
+    "answer": "teacher"
+  },
+  {
+    "id": 185,
+    "riddle": "⌨️ Type exactly: 3am",
+    "answer": "3am"
+  },
+  {
+    "id": 186,
+    "riddle": "🤔 Kandkhel f kol bit bla istidhan. Chnou ana?",
+    "answer": "hawa"
+  },
+  {
+    "id": 187,
+    "riddle": "🧮 Hseb: 7 * 10 = ?",
+    "answer": "70"
+  },
+  {
+    "id": 188,
+    "riddle": "🇲🇦 Chnou hiya l5a9 dyal soq lli kayen f fas? Awwel 7arf M...",
+    "answer": "medina"
+  },
+  {
+    "id": 189,
+    "riddle": "🗣️ Translate: telmid = ??? (in English)",
+    "answer": "student"
+  },
+  {
+    "id": 190,
+    "riddle": "⌨️ Type exactly: walo",
+    "answer": "walo"
+  },
+  {
+    "id": 191,
+    "riddle": "🤔 Ana 3ndi wjeh bla 3ynin. Chnou ana?",
+    "answer": "sa3a"
+  },
+  {
+    "id": 192,
+    "riddle": "🧮 Hseb: 5 * 3 = ?",
+    "answer": "15"
+  },
+  {
+    "id": 193,
+    "riddle": "🇲🇦 Chnou howa l festival dyal gnaoua lli kaydaro f essaouira? Awwel 7arf G...",
+    "answer": "gnaoua"
+  },
+  {
+    "id": 194,
+    "riddle": "🗣️ Translate: siyara = ??? (in English)",
+    "answer": "car"
+  },
+  {
+    "id": 195,
+    "riddle": "⌨️ Type exactly: kbir",
+    "answer": "kbir"
+  },
+  {
+    "id": 196,
+    "riddle": "🤔 Kolchi kaytmessa biya walakin ana mansalbch. Chnou ana?",
+    "answer": "9alam"
+  },
+  {
+    "id": 197,
+    "riddle": "🧮 Hseb: 82 - 7 = ?",
+    "answer": "75"
+  },
+  {
+    "id": 198,
+    "riddle": "🇲🇦 Chnou hiya l makla maghribiya lli katdir b l7out f tajin? Awwel 7arf T...",
+    "answer": "tajin"
+  },
+  {
+    "id": 199,
+    "riddle": "🗣️ Translate: tren = ??? (in English)",
+    "answer": "train"
+  },
+  {
+    "id": 200,
+    "riddle": "⌨️ Type exactly: 2ibk",
+    "answer": "2ibk"
+  },
+  {
+    "id": 201,
+    "riddle": "🤔 3ndi ras kbira walakin machi ra9. Chnou ana?",
+    "answer": "martou"
+  },
+  {
+    "id": 202,
+    "riddle": "🧮 Hseb: 11 * 7 = ?",
+    "answer": "77"
+  },
+  {
+    "id": 203,
+    "riddle": "🇲🇦 Chnou howa l wadi lli kaymir mn atlas l bhar? Awwel 7arf D...",
+    "answer": "draa"
+  },
+  {
+    "id": 204,
+    "riddle": "🗣️ Translate: tiyara = ??? (in English)",
+    "answer": "airplane"
+  },
+  {
+    "id": 205,
+    "riddle": "⌨️ Type exactly: 157826",
+    "answer": "157826"
+  },
+  {
+    "id": 206,
+    "riddle": "🤔 Kol 3am kanjiw walakin machi dayf. Chnou ana?",
+    "answer": "l3yad"
+  },
+  {
+    "id": 207,
+    "riddle": "🧮 Hseb: 79 - 9 = ?",
+    "answer": "70"
+  },
+  {
+    "id": 208,
+    "riddle": "🇲🇦 Chnou hiya l qbi3a t9lidiya maghribiya? Awwel 7arf T...",
+    "answer": "tarbouch"
+  },
+  {
+    "id": 209,
+    "riddle": "🗣️ Translate: 9mar = ??? (in English)",
+    "answer": "moon"
+  },
+  {
+    "id": 210,
+    "riddle": "⌨️ Type exactly: telmid",
+    "answer": "telmid"
+  },
+  {
+    "id": 211,
+    "riddle": "🤔 Ana bghit nkoun 7lawa walakin 3ndi sha9awa. Chnou ana?",
+    "answer": "nimra"
+  },
+  {
+    "id": 212,
+    "riddle": "🧮 Hseb: 108 / 9 = ?",
+    "answer": "12"
+  },
+  {
+    "id": 213,
+    "riddle": "🇲🇦 Chnou howa l 3id lli kaydabho fih lmaghribin l7ansh? Awwel 7arf A...",
+    "answer": "aid lakbar"
+  },
+  {
+    "id": 214,
+    "riddle": "🗣️ Translate: njoum = ??? (in English)",
+    "answer": "stars"
+  },
+  {
+    "id": 215,
+    "riddle": "⌨️ Type exactly: s82yn",
+    "answer": "s82yn"
+  },
+  {
+    "id": 216,
+    "riddle": "🤔 3ndi kul shi walakin ma 3ndi 7ta shi. Chnou ana?",
+    "answer": "miraya"
+  },
+  {
+    "id": 217,
+    "riddle": "🧮 Hseb: 30 / 3 = ?",
+    "answer": "10"
+  },
+  {
+    "id": 218,
+    "riddle": "🇲🇦 Chnou hiya l henna maghribiya lli katdir 3la yidin? Awwel 7arf H...",
+    "answer": "henna"
+  },
+  {
+    "id": 219,
+    "riddle": "🗣️ Translate: sama = ??? (in English)",
+    "answer": "sky"
+  },
+  {
+    "id": 220,
+    "riddle": "⌨️ Type exactly: ostaz",
+    "answer": "ostaz"
+  },
+  {
+    "id": 221,
+    "riddle": "🤔 Kanbqa f yidik walakin m3ak machi. Chnou ana?",
+    "answer": "sout"
+  },
+  {
+    "id": 222,
+    "riddle": "🧮 Hseb: 7 + 28 = ?",
+    "answer": "35"
+  },
+  {
+    "id": 223,
+    "riddle": "🇲🇦 Chnou hiya l zrabi maghribiya l'mshhoura? Awwel 7arf R...",
+    "answer": "rbati"
+  },
+  {
+    "id": 224,
+    "riddle": "🗣️ Translate: ard = ??? (in English)",
+    "answer": "earth"
+  },
+  {
+    "id": 225,
+    "riddle": "⌨️ Type exactly: morr",
+    "answer": "morr"
+  },
+  {
+    "id": 226,
+    "riddle": "🤔 3ndi ghita walakin machi ktab. Chnou ana?",
+    "answer": "lgha9"
+  },
+  {
+    "id": 227,
+    "riddle": "🧮 Hseb: 3 * 3 = ?",
+    "answer": "9"
+  },
+  {
+    "id": 228,
+    "riddle": "🇲🇦 Chnou hiya l ghorfa l7ammam f dar maghribiya? Awwel 7arf H...",
+    "answer": "hammam"
+  },
+  {
+    "id": 229,
+    "riddle": "🗣️ Translate: rih = ??? (in English)",
+    "answer": "wind"
+  },
+  {
+    "id": 230,
+    "riddle": "⌨️ Type exactly: wae98",
+    "answer": "wae98"
+  },
+  {
+    "id": 231,
+    "riddle": "🤔 Kol nhar kaytla3 walakin machi shems. Chnou ana?",
+    "answer": "9mar"
+  },
+  {
+    "id": 232,
+    "riddle": "🧮 Hseb: 9 * 11 = ?",
+    "answer": "99"
+  },
+  {
+    "id": 233,
+    "riddle": "🇲🇦 Chnou howa l ghna maghribi l9dim lli kayghniw fih m3a l3od? Awwel 7arf A...",
+    "answer": "andaloussi"
+  },
+  {
+    "id": 234,
+    "riddle": "🗣️ Translate: thelj = ??? (in English)",
+    "answer": "snow"
+  },
+  {
+    "id": 235,
+    "riddle": "⌨️ Type exactly: 468632",
+    "answer": "468632"
+  },
+  {
+    "id": 236,
+    "riddle": "🤔 Kanfta7 bla yidin. Chnou ana?",
+    "answer": "3yen"
+  },
+  {
+    "id": 237,
+    "riddle": "🧮 Hseb: 44 + 43 = ?",
+    "answer": "87"
+  },
+  {
+    "id": 238,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli 3andha laman9a l aqdima f lmaghrib? Awwel 7arf V...",
+    "answer": "volubilis"
+  },
+  {
+    "id": 239,
+    "riddle": "🗣️ Translate: matar = ??? (in English)",
+    "answer": "rain"
+  },
+  {
+    "id": 240,
+    "riddle": "⌨️ Type exactly: 465716",
+    "answer": "465716"
+  },
+  {
+    "id": 241,
+    "riddle": "🤔 3ndi loun 7meur walakin machi dam. Chnou ana?",
+    "answer": "tamr"
+  },
+  {
+    "id": 242,
+    "riddle": "🧮 Hseb: 96 / 12 = ?",
+    "answer": "8"
+  },
+  {
+    "id": 243,
+    "riddle": "🇲🇦 Chnou hiya l7elwa lli kaydiroha mn smid w dhan? Awwel 7arf S...",
+    "answer": "sellou"
+  },
+  {
+    "id": 244,
+    "riddle": "🗣️ Translate: nar = ??? (in English)",
+    "answer": "fire"
+  },
+  {
+    "id": 245,
+    "riddle": "⌨️ Type exactly: 997871",
+    "answer": "997871"
+  },
+  {
+    "id": 246,
+    "riddle": "🤔 Kanbe9 walakin machi kelb. Chnou ana?",
+    "answer": "sa3a"
+  },
+  {
+    "id": 247,
+    "riddle": "🧮 Hseb: 4 * 5 = ?",
+    "answer": "20"
+  },
+  {
+    "id": 248,
+    "riddle": "🇲🇦 Chnou hiya l lbsa t9lidiya lli katlbsouha l3aroussat? Awwel 7arf T...",
+    "answer": "takchita"
+  },
+  {
+    "id": 249,
+    "riddle": "🗣️ Translate: lma = ??? (in English)",
+    "answer": "water"
+  },
+  {
+    "id": 250,
+    "riddle": "⌨️ Type exactly: s7ab",
+    "answer": "s7ab"
+  },
+  {
+    "id": 251,
+    "riddle": "🤔 3ndi louba bla kura. Chnou ana?",
+    "answer": "tewla"
+  },
+  {
+    "id": 252,
+    "riddle": "🧮 Hseb: 79 + 15 = ?",
+    "answer": "94"
+  },
+  {
+    "id": 253,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli kayna fiha sqala dyal qdima? Awwel 7arf E...",
+    "answer": "essaouira"
+  },
+  {
+    "id": 254,
+    "riddle": "🗣️ Translate: 7jar = ??? (in English)",
+    "answer": "stone"
+  },
+  {
+    "id": 255,
+    "riddle": "⌨️ Type exactly: fbtfv",
+    "answer": "fbtfv"
+  },
+  {
+    "id": 256,
+    "riddle": "🤔 Kanbqa bla koul walakin ma kanmoutch. Chnou ana?",
+    "answer": "7jar"
+  },
+  {
+    "id": 257,
+    "riddle": "🧮 Hseb: 100 / 10 = ?",
+    "answer": "10"
+  },
+  {
+    "id": 258,
+    "riddle": "🇲🇦 Chnou hiya l 7adiqa l kayna f rabat m3rofa b nkhlat? Awwel 7arf J...",
+    "answer": "jardins exotiques"
+  },
+  {
+    "id": 259,
+    "riddle": "🗣️ Translate: trab = ??? (in English)",
+    "answer": "soil"
+  },
+  {
+    "id": 260,
+    "riddle": "⌨️ Type exactly: 773547",
+    "answer": "773547"
+  },
+  {
+    "id": 261,
+    "riddle": "🤔 Kol ma zedti liya, s3aret liya. Chnou ana?",
+    "answer": "nar"
+  },
+  {
+    "id": 262,
+    "riddle": "🧮 Hseb: 4 / 2 = ?",
+    "answer": "2"
+  },
+  {
+    "id": 263,
+    "riddle": "🇲🇦 Chnou howa l msjed l akbar f lmaghrib? Awwel 7arf H...",
+    "answer": "hassan 2"
+  },
+  {
+    "id": 264,
+    "riddle": "🗣️ Translate: wqt = ??? (in English)",
+    "answer": "time"
+  },
+  {
+    "id": 265,
+    "riddle": "⌨️ Type exactly: apwolly",
+    "answer": "apwolly"
+  },
+  {
+    "id": 266,
+    "riddle": "🤔 Ma 3ndiich rijlin walakin kanmchi. Chnou ana?",
+    "answer": "lma"
+  },
+  {
+    "id": 267,
+    "riddle": "🧮 Hseb: 46 + 97 = ?",
+    "answer": "143"
+  },
+  {
+    "id": 268,
+    "riddle": "🇲🇦 Chnou hiya l moji9a t9lidiya dyal gnaoua? Awwel 7arf L...",
+    "answer": "lila"
+  },
+  {
+    "id": 269,
+    "riddle": "🗣️ Translate: yum = ??? (in English)",
+    "answer": "day"
+  },
+  {
+    "id": 270,
+    "riddle": "⌨️ Type exactly: 699377",
+    "answer": "699377"
+  },
+  {
+    "id": 271,
+    "riddle": "🤔 Kol nhar kandkhel w kol nhar kankhroj. Chnou ana?",
+    "answer": "nfss"
+  },
+  {
+    "id": 272,
+    "riddle": "🧮 Hseb: 3 * 11 = ?",
+    "answer": "33"
+  },
+  {
+    "id": 273,
+    "riddle": "🇲🇦 Chnou howa l sobban lli kaydirou mn argan? Awwel 7arf H...",
+    "answer": "huile d argan"
+  },
+  {
+    "id": 274,
+    "riddle": "🗣️ Translate: sim = ??? (in English)",
+    "answer": "name"
+  },
+  {
+    "id": 275,
+    "riddle": "⌨️ Type exactly: 462598",
+    "answer": "462598"
+  },
+  {
+    "id": 276,
+    "riddle": "🤔 Ana 3ndi 12 weld. Chnou ana?",
+    "answer": "3am"
+  },
+  {
+    "id": 277,
+    "riddle": "🧮 Hseb: 5 * 8 = ?",
+    "answer": "40"
+  },
+  {
+    "id": 278,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli kayna fiha bab l mansour? Awwel 7arf M...",
+    "answer": "meknes"
+  },
+  {
+    "id": 279,
+    "riddle": "🗣️ Translate: 7ya = ??? (in English)",
+    "answer": "life"
+  },
+  {
+    "id": 280,
+    "riddle": "⌨️ Type exactly: 260106",
+    "answer": "260106"
+  },
+  {
+    "id": 281,
+    "riddle": "🤔 Kol nhar kanjri men ras l ras. Chnou ana?",
+    "answer": "nhar"
+  },
+  {
+    "id": 282,
+    "riddle": "🧮 Hseb: 99 / 11 = ?",
+    "answer": "9"
+  },
+  {
+    "id": 283,
+    "riddle": "🇲🇦 Chnou hiya l makla lli kaydirouha f 3id l fitr? Awwel 7arf H...",
+    "answer": "harira"
+  },
+  {
+    "id": 284,
+    "riddle": "🗣️ Translate: mout = ??? (in English)",
+    "answer": "death"
+  },
+  {
+    "id": 285,
+    "riddle": "⌨️ Type exactly: 123776",
+    "answer": "123776"
+  },
+  {
+    "id": 286,
+    "riddle": "🤔 Kol nhar kayji w kayji walakin machi 7da. Chnou ana?",
+    "answer": "nhar"
+  },
+  {
+    "id": 287,
+    "riddle": "🧮 Hseb: 63 / 7 = ?",
+    "answer": "9"
+  },
+  {
+    "id": 288,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli 3andha mellah l9dim? Awwel 7arf F...",
+    "answer": "fes"
+  },
+  {
+    "id": 289,
+    "riddle": "🗣️ Translate: 3aql = ??? (in English)",
+    "answer": "mind"
+  },
+  {
+    "id": 290,
+    "riddle": "⌨️ Type exactly: 793006",
+    "answer": "793006"
+  },
+  {
+    "id": 291,
+    "riddle": "🤔 3ndi 2 rijlin walakin machi bnadm. Chnou ana?",
+    "answer": "bikar"
+  },
+  {
+    "id": 292,
+    "riddle": "🧮 Hseb: 5 + 53 = ?",
+    "answer": "58"
+  },
+  {
+    "id": 293,
+    "riddle": "🇲🇦 Chnou hiya l 3in lli kayna f ifrane? Awwel 7arf A...",
+    "answer": "atlas"
+  },
+  {
+    "id": 294,
+    "riddle": "🗣️ Translate: roh = ??? (in English)",
+    "answer": "soul"
+  },
+  {
+    "id": 295,
+    "riddle": "⌨️ Type exactly: jdid",
+    "answer": "jdid"
+  },
+  {
+    "id": 296,
+    "riddle": "🤔 Kol nhar kaydkhel f bitik walakin machi 7da. Chnou ana?",
+    "answer": "daw"
+  },
+  {
+    "id": 297,
+    "riddle": "🧮 Hseb: 78 - 5 = ?",
+    "answer": "73"
+  },
+  {
+    "id": 298,
+    "riddle": "🇲🇦 Chnou howa l3id lli kayji mn ba3d ramadan? Awwel 7arf A...",
+    "answer": "aid sghir"
+  },
+  {
+    "id": 299,
+    "riddle": "🗣️ Translate: 7obb = ??? (in English)",
+    "answer": "love"
+  },
+  {
+    "id": 300,
+    "riddle": "⌨️ Type exactly: fhby02",
+    "answer": "fhby02"
+  },
+  {
+    "id": 301,
+    "riddle": "🤔 Kol ma mchiit, jiit. Chnou ana?",
+    "answer": "dell"
+  },
+  {
+    "id": 302,
+    "riddle": "🧮 Hseb: 78 - 1 = ?",
+    "answer": "77"
+  },
+  {
+    "id": 303,
+    "riddle": "🇲🇦 Chnou hiya l loghba t9lidiya dyal lmaghrib lli kaylabou biha drari? Awwel 7arf B...",
+    "answer": "bendir"
+  },
+  {
+    "id": 304,
+    "riddle": "🗣️ Translate: fara7 = ??? (in English)",
+    "answer": "joy"
+  },
+  {
+    "id": 305,
+    "riddle": "⌨️ Type exactly: 246227",
+    "answer": "246227"
+  },
+  {
+    "id": 306,
+    "riddle": "🤔 Kol nhar kaybeyen walakin machi mouda. Chnou ana?",
+    "answer": "taqs"
+  },
+  {
+    "id": 307,
+    "riddle": "🧮 Hseb: 35 + 31 = ?",
+    "answer": "66"
+  },
+  {
+    "id": 308,
+    "riddle": "🇲🇦 Chnou howa l bnad t9lidi dyal lmaghrib lli 3andou snin kter? Awwel 7arf J...",
+    "answer": "jilala"
+  },
+  {
+    "id": 309,
+    "riddle": "🗣️ Translate: 7uzn = ??? (in English)",
+    "answer": "sadness"
+  },
+  {
+    "id": 310,
+    "riddle": "⌨️ Type exactly: 3k6rpb",
+    "answer": "3k6rpb"
+  },
+  {
+    "id": 311,
+    "riddle": "🤔 3ndi sha3r bla ras. Chnou ana?",
+    "answer": "nadjer"
+  },
+  {
+    "id": 312,
+    "riddle": "🧮 Hseb: 6 / 3 = ?",
+    "answer": "2"
+  },
+  {
+    "id": 313,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli m3rofa b tinjedad w ksour? Awwel 7arf T...",
+    "answer": "tinerhir"
+  },
+  {
+    "id": 314,
+    "riddle": "🗣️ Translate: khawf = ??? (in English)",
+    "answer": "fear"
+  },
+  {
+    "id": 315,
+    "riddle": "⌨️ Type exactly: ca2w0bz7",
+    "answer": "ca2w0bz7"
+  },
+  {
+    "id": 316,
+    "riddle": "🤔 3ndi 12 ould walakin machi lwalid. Chnou ana?",
+    "answer": "3am"
+  },
+  {
+    "id": 317,
+    "riddle": "🧮 Hseb: 88 + 49 = ?",
+    "answer": "137"
+  },
+  {
+    "id": 318,
+    "riddle": "🇲🇦 Chnou hiya l3ayla mlokiya lli 7akmat lmaghrib mn zman? Awwel 7arf A...",
+    "answer": "alaoui"
+  },
+  {
+    "id": 319,
+    "riddle": "🗣️ Translate: amn = ??? (in English)",
+    "answer": "peace"
+  },
+  {
+    "id": 320,
+    "riddle": "⌨️ Type exactly: iz746m",
+    "answer": "iz746m"
+  },
+  {
+    "id": 321,
+    "riddle": "🤔 Kol nhar kandkhel w kol nhar kankhroj bla ijazat. Chnou ana?",
+    "answer": "nfss"
+  },
+  {
+    "id": 322,
+    "riddle": "🧮 Hseb: 9 * 10 = ?",
+    "answer": "90"
+  },
+  {
+    "id": 323,
+    "riddle": "🇲🇦 Chnou hiya l madina lli 3andha 9asba w riyadh? Awwel 7arf M...",
+    "answer": "marrakech"
+  },
+  {
+    "id": 324,
+    "riddle": "🗣️ Translate: 7riya = ??? (in English)",
+    "answer": "freedom"
+  },
+  {
+    "id": 325,
+    "riddle": "⌨️ Type exactly: 4gh6",
+    "answer": "4gh6"
+  },
+  {
+    "id": 326,
+    "riddle": "🤔 Kol nhar kanjri men ras l ras bla waqfa. Chnou ana?",
+    "answer": "waqt"
+  },
+  {
+    "id": 327,
+    "riddle": "🧮 Hseb: 48 - 2 = ?",
+    "answer": "46"
+  },
+  {
+    "id": 328,
+    "riddle": "🇲🇦 Chnou hiya l makla maghribiya lli kati9la f ramadan? Awwel 7arf C...",
+    "answer": "couscous"
+  },
+  {
+    "id": 329,
+    "riddle": "🗣️ Translate: saber = ??? (in English)",
+    "answer": "patience"
+  },
+  {
+    "id": 330,
+    "riddle": "⌨️ Type exactly: t9x0",
+    "answer": "t9x0"
+  },
+  {
+    "id": 331,
+    "riddle": "🤔 3ndi ras kbira walakin machi lwalid. Chnou ana?",
+    "answer": "dabbous"
+  },
+  {
+    "id": 332,
+    "riddle": "🧮 Hseb: 8 * 8 = ?",
+    "answer": "64"
+  },
+  {
+    "id": 333,
+    "riddle": "🇲🇦 Chnou hiya l 9bi7a dyal argan lli kaydirouha f lmaghrib? Awwel 7arf A...",
+    "answer": "amlou"
+  },
+  {
+    "id": 334,
+    "riddle": "🗣️ Translate: shukran = ??? (in English)",
+    "answer": "thank you"
+  },
+  {
+    "id": 335,
+    "riddle": "⌨️ Type exactly: igsprzhx",
+    "answer": "igsprzhx"
+  },
+  {
+    "id": 336,
+    "riddle": "🤔 Kol nhar kaymchi walakin ma kayrj3ch. Chnou ana?",
+    "answer": "3omr"
+  },
+  {
+    "id": 337,
+    "riddle": "🧮 Hseb: 7 * 5 = ?",
+    "answer": "35"
+  },
+  {
+    "id": 338,
+    "riddle": "🇲🇦 Chnou howa l festival dyal roses lli kaydaro kol 3am? Awwel 7arf K...",
+    "answer": "kelaat mgouna"
+  },
+  {
+    "id": 339,
+    "riddle": "🗣️ Translate: smH liya = ??? (in English)",
+    "answer": "excuse me"
+  },
+  {
+    "id": 340,
+    "riddle": "⌨️ Type exactly: 215458",
+    "answer": "215458"
+  },
+  {
+    "id": 341,
+    "riddle": "🤔 3ndi bzzaf dyal wlad walakin machi lwalid. Chnou ana?",
+    "answer": "shajra"
+  },
+  {
+    "id": 342,
+    "riddle": "🧮 Hseb: 8 * 10 = ?",
+    "answer": "80"
+  },
+  {
+    "id": 343,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli kayna fiha bouhania? Awwel 7arf F...",
+    "answer": "fes"
+  },
+  {
+    "id": 344,
+    "riddle": "🗣️ Translate: la bas = ??? (in English)",
+    "answer": "no problem"
+  },
+  {
+    "id": 345,
+    "riddle": "⌨️ Type exactly: kolchi",
+    "answer": "kolchi"
+  },
+  {
+    "id": 346,
+    "riddle": "🤔 Kol nhar kanfna walakin kanrja3. Chnou ana?",
+    "answer": "qamar"
+  },
+  {
+    "id": 347,
+    "riddle": "🧮 Hseb: 10 * 11 = ?",
+    "answer": "110"
+  },
+  {
+    "id": 348,
+    "riddle": "🇲🇦 Chnou howa l bahra lli kaymir 3la janoub lmaghrib? Awwel 7arf A...",
+    "answer": "atlantique"
+  },
+  {
+    "id": 349,
+    "riddle": "🗣️ Translate: mrhba = ??? (in English)",
+    "answer": "welcome"
+  },
+  {
+    "id": 350,
+    "riddle": "⌨️ Type exactly: 971381",
+    "answer": "971381"
+  },
+  {
+    "id": 351,
+    "riddle": "🤔 3ndi ras bzzaf walakin machi ras. Chnou ana?",
+    "answer": "tssabih"
+  },
+  {
+    "id": 352,
+    "riddle": "🧮 Hseb: 18 / 2 = ?",
+    "answer": "9"
+  },
+  {
+    "id": 353,
+    "riddle": "🇲🇦 Chnou hiya l 7adiqa lli kayna f marrakech m3rofa b dyal majorelle? Awwel 7arf J...",
+    "answer": "jardin majorelle"
+  },
+  {
+    "id": 354,
+    "riddle": "🗣️ Translate: b7al = ??? (in English)",
+    "answer": "like"
+  },
+  {
+    "id": 355,
+    "riddle": "⌨️ Type exactly: zxvijna",
+    "answer": "zxvijna"
+  },
+  {
+    "id": 356,
+    "riddle": "🤔 Kanbqa f lil walakin machi 7aiwan llili. Chnou ana?",
+    "answer": "najma"
+  },
+  {
+    "id": 357,
+    "riddle": "🧮 Hseb: 4 * 3 = ?",
+    "answer": "12"
+  },
+  {
+    "id": 358,
+    "riddle": "🇲🇦 Chnou hiya l 9bi7a lli kaydirou mn sdir? Awwel 7arf A...",
+    "answer": "argan"
+  },
+  {
+    "id": 359,
+    "riddle": "🗣️ Translate: zwine = ??? (in English)",
+    "answer": "beautiful"
+  },
+  {
+    "id": 360,
+    "riddle": "⌨️ Type exactly: 360800",
+    "answer": "360800"
+  },
+  {
+    "id": 361,
+    "riddle": "🤔 3ndi rijlin walakin machi insan wala 7aiwan. Chnou ana?",
+    "answer": "korsi"
+  },
+  {
+    "id": 362,
+    "riddle": "🧮 Hseb: 3 + 39 = ?",
+    "answer": "42"
+  },
+  {
+    "id": 363,
+    "riddle": "🇲🇦 Chnou howa l bab l'kbir lli kayen f rabat? Awwel 7arf B...",
+    "answer": "bab chellah"
+  },
+  {
+    "id": 364,
+    "riddle": "🗣️ Translate: khayb = ??? (in English)",
+    "answer": "bad"
+  },
+  {
+    "id": 365,
+    "riddle": "⌨️ Type exactly: 337140",
+    "answer": "337140"
+  },
+  {
+    "id": 366,
+    "riddle": "🤔 3ndi bzzaf dyal laoun walakin machi rssam. Chnou ana?",
+    "answer": "9ous 9za7"
+  },
+  {
+    "id": 367,
+    "riddle": "🧮 Hseb: 33 - 4 = ?",
+    "answer": "29"
+  },
+  {
+    "id": 368,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli kayna fiha port l'kbir? Awwel 7arf C...",
+    "answer": "casablanca"
+  },
+  {
+    "id": 369,
+    "riddle": "🗣️ Translate: kbir = ??? (in English)",
+    "answer": "big"
+  },
+  {
+    "id": 370,
+    "riddle": "⌨️ Type exactly: 521845",
+    "answer": "521845"
+  },
+  {
+    "id": 371,
+    "riddle": "🤔 Kol nhar kankber walakin ma kayen 7d kaysha7ch. Chnou ana?",
+    "answer": "shajra"
+  },
+  {
+    "id": 372,
+    "riddle": "🧮 Hseb: 33 / 3 = ?",
+    "answer": "11"
+  },
+  {
+    "id": 373,
+    "riddle": "🇲🇦 Chnou howa l sport l'watani dyal lmaghrib? Awwel 7arf F...",
+    "answer": "football"
+  },
+  {
+    "id": 374,
+    "riddle": "🗣️ Translate: sghir = ??? (in English)",
+    "answer": "small"
+  },
+  {
+    "id": 375,
+    "riddle": "⌨️ Type exactly: ktab",
+    "answer": "ktab"
+  },
+  {
+    "id": 376,
+    "riddle": "🤔 3ndi bab walakin machi mahal. Chnou ana?",
+    "answer": "ktab"
+  },
+  {
+    "id": 377,
+    "riddle": "🧮 Hseb: 6 * 8 = ?",
+    "answer": "48"
+  },
+  {
+    "id": 378,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli m3rofa b lkhzaf? Awwel 7arf S...",
+    "answer": "safi"
+  },
+  {
+    "id": 379,
+    "riddle": "🗣️ Translate: twil = ??? (in English)",
+    "answer": "tall"
+  },
+  {
+    "id": 380,
+    "riddle": "⌨️ Type exactly: sghir",
+    "answer": "sghir"
+  },
+  {
+    "id": 381,
+    "riddle": "🤔 Kol nhar kaytla3 men lbhar walakin machi samaka. Chnou ana?",
+    "answer": "shems"
+  },
+  {
+    "id": 382,
+    "riddle": "🧮 Hseb: 10 + 13 = ?",
+    "answer": "23"
+  },
+  {
+    "id": 383,
+    "riddle": "🇲🇦 Chnou hiya l 7rafa t9lidiya lli kaydirouha l9dim? Awwel 7arf N...",
+    "answer": "nqcha"
+  },
+  {
+    "id": 384,
+    "riddle": "🗣️ Translate: 9sir = ??? (in English)",
+    "answer": "short"
+  },
+  {
+    "id": 385,
+    "riddle": "⌨️ Type exactly: fgd6v",
+    "answer": "fgd6v"
+  },
+  {
+    "id": 386,
+    "riddle": "🤔 Kol nhar kamshi walakin ma kamchich. Chnou ana?",
+    "answer": "sa3a"
+  },
+  {
+    "id": 387,
+    "riddle": "🧮 Hseb: 12 / 4 = ?",
+    "answer": "3"
+  },
+  {
+    "id": 388,
+    "riddle": "🇲🇦 Chnou hiya l makla lli kaydirouha mn la9raj w dhan? Awwel 7arf A...",
+    "answer": "amlou"
+  },
+  {
+    "id": 389,
+    "riddle": "🗣️ Translate: t9il = ??? (in English)",
+    "answer": "heavy"
+  },
+  {
+    "id": 390,
+    "riddle": "⌨️ Type exactly: mzyan",
+    "answer": "mzyan"
+  },
+  {
+    "id": 391,
+    "riddle": "🤔 3ndi wjeh walakin machi miraya. Chnou ana?",
+    "answer": "sa3a"
+  },
+  {
+    "id": 392,
+    "riddle": "🧮 Hseb: 55 / 5 = ?",
+    "answer": "11"
+  },
+  {
+    "id": 393,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli kayna fiha Hercule ghar? Awwel 7arf T...",
+    "answer": "tanger"
+  },
+  {
+    "id": 394,
+    "riddle": "🗣️ Translate: khfif = ??? (in English)",
+    "answer": "light"
+  },
+  {
+    "id": 395,
+    "riddle": "⌨️ Type exactly: ydoi6kdl",
+    "answer": "ydoi6kdl"
+  },
+  {
+    "id": 396,
+    "riddle": "🤔 Kandkhel men bab walakin machi zayour. Chnou ana?",
+    "answer": "miftah"
+  },
+  {
+    "id": 397,
+    "riddle": "🧮 Hseb: 19 - 7 = ?",
+    "answer": "12"
+  },
+  {
+    "id": 398,
+    "riddle": "🇲🇦 Chnou howa l 7nna lli kaydirou f lmghrib 3la wjhouh? Awwel 7arf H...",
+    "answer": "henna"
+  },
+  {
+    "id": 399,
+    "riddle": "🗣️ Translate: s7i7 = ??? (in English)",
+    "answer": "correct"
+  },
+  {
+    "id": 400,
+    "riddle": "⌨️ Type exactly: khedma",
+    "answer": "khedma"
+  },
+  {
+    "id": 401,
+    "riddle": "🤔 3ndi ktab walakin machi muallim. Chnou ana?",
+    "answer": "maktaba"
+  },
+  {
+    "id": 402,
+    "riddle": "🧮 Hseb: 71 - 7 = ?",
+    "answer": "64"
+  },
+  {
+    "id": 403,
+    "riddle": "🇲🇦 Chnou hiya l9di9a lli katkhdem f dar maghribiya? Awwel 7arf Z...",
+    "answer": "zellige"
+  },
+  {
+    "id": 404,
+    "riddle": "🗣️ Translate: ghlet = ??? (in English)",
+    "answer": "wrong"
+  },
+  {
+    "id": 405,
+    "riddle": "⌨️ Type exactly: 491160",
+    "answer": "491160"
+  },
+  {
+    "id": 406,
+    "riddle": "🤔 3ndi taman walakin machi bida3a. Chnou ana?",
+    "answer": "waqt"
+  },
+  {
+    "id": 407,
+    "riddle": "🧮 Hseb: 12 * 12 = ?",
+    "answer": "144"
+  },
+  {
+    "id": 408,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli m3rofa b 7nna? Awwel 7arf M...",
+    "answer": "marrakech"
+  },
+  {
+    "id": 409,
+    "riddle": "🗣️ Translate: qdim = ??? (in English)",
+    "answer": "old"
+  },
+  {
+    "id": 410,
+    "riddle": "⌨️ Type exactly: 7arr",
+    "answer": "7arr"
+  },
+  {
+    "id": 411,
+    "riddle": "🤔 3ndi ras w jism walakin machi haiwan. Chnou ana?",
+    "answer": "martou"
+  },
+  {
+    "id": 412,
+    "riddle": "🧮 Hseb: 99 / 9 = ?",
+    "answer": "11"
+  },
+  {
+    "id": 413,
+    "riddle": "🇲🇦 Chnou hiya l makla maghribiya lli katdir b l7ut w 9lia? Awwel 7arf C...",
+    "answer": "chermoula"
+  },
+  {
+    "id": 414,
+    "riddle": "🗣️ Translate: jdid = ??? (in English)",
+    "answer": "new"
+  },
+  {
+    "id": 415,
+    "riddle": "⌨️ Type exactly: zh385",
+    "answer": "zh385"
+  },
+  {
+    "id": 416,
+    "riddle": "🤔 Kanbqa 3la 7it walakin machi sour. Chnou ana?",
+    "answer": "miraya"
+  },
+  {
+    "id": 417,
+    "riddle": "🧮 Hseb: 12 / 6 = ?",
+    "answer": "2"
+  },
+  {
+    "id": 418,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli 3andha bab l7ad? Awwel 7arf R...",
+    "answer": "rabat"
+  },
+  {
+    "id": 419,
+    "riddle": "🗣️ Translate: sa3a = ??? (in English)",
+    "answer": "hour"
+  },
+  {
+    "id": 420,
+    "riddle": "⌨️ Type exactly: ld24afg5",
+    "answer": "ld24afg5"
+  },
+  {
+    "id": 421,
+    "riddle": "🤔 Kanjri bzzaf walakin ma 3ndiich rijlin. Chnou ana?",
+    "answer": "sayara"
+  },
+  {
+    "id": 422,
+    "riddle": "🧮 Hseb: 62 + 45 = ?",
+    "answer": "107"
+  },
+  {
+    "id": 423,
+    "riddle": "🇲🇦 Chnou howa l jbal lli kayen bla thelj f lmaghrib? Awwel 7arf A...",
+    "answer": "anti atlas"
+  },
+  {
+    "id": 424,
+    "riddle": "🗣️ Translate: d9i9a = ??? (in English)",
+    "answer": "minute"
+  },
+  {
+    "id": 425,
+    "riddle": "⌨️ Type exactly: kifach",
+    "answer": "kifach"
+  },
+  {
+    "id": 426,
+    "riddle": "🤔 3ndi ras sghira walakin jismi kbir. Chnou ana?",
+    "answer": "sham3a"
+  },
+  {
+    "id": 427,
+    "riddle": "🧮 Hseb: 70 - 4 = ?",
+    "answer": "66"
+  },
+  {
+    "id": 428,
+    "riddle": "🇲🇦 Chnou hiya l moj lli kaytla3 f lmaghrib? Awwel 7arf T...",
+    "answer": "taroudant"
+  },
+  {
+    "id": 429,
+    "riddle": "🗣️ Translate: taniya = ??? (in English)",
+    "answer": "second"
+  },
+  {
+    "id": 430,
+    "riddle": "⌨️ Type exactly: 635612",
+    "answer": "635612"
+  },
+  {
+    "id": 431,
+    "riddle": "🤔 Kol nhar kanhder m3a bzzaf dyal nas. Chnou ana?",
+    "answer": "telvizyon"
+  },
+  {
+    "id": 432,
+    "riddle": "🧮 Hseb: 34 + 27 = ?",
+    "answer": "61"
+  },
+  {
+    "id": 433,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli 3andha aqqa? Awwel 7arf C...",
+    "answer": "chefchaouen"
+  },
+  {
+    "id": 434,
+    "riddle": "🗣️ Translate: nhar = ??? (in English)",
+    "answer": "day"
+  },
+  {
+    "id": 435,
+    "riddle": "⌨️ Type exactly: 359211",
+    "answer": "359211"
+  },
+  {
+    "id": 436,
+    "riddle": "🤔 3ndi dar bla 7it. Chnou ana?",
+    "answer": "khaima"
+  },
+  {
+    "id": 437,
+    "riddle": "🧮 Hseb: 27 / 9 = ?",
+    "answer": "3"
+  },
+  {
+    "id": 438,
+    "riddle": "🇲🇦 Chnou howa l 3id lli kaydabho fih l3id l kbir? Awwel 7arf A...",
+    "answer": "aid adha"
+  },
+  {
+    "id": 439,
+    "riddle": "🗣️ Translate: simana = ??? (in English)",
+    "answer": "week"
+  },
+  {
+    "id": 440,
+    "riddle": "⌨️ Type exactly: 630615",
+    "answer": "630615"
+  },
+  {
+    "id": 441,
+    "riddle": "🤔 Kandkhel walakin machi zayour. Chnou ana?",
+    "answer": "hawa"
+  },
+  {
+    "id": 442,
+    "riddle": "🧮 Hseb: 9 * 5 = ?",
+    "answer": "45"
+  },
+  {
+    "id": 443,
+    "riddle": "🇲🇦 Chnou hiya l 7elwa lli kaydirouha mn l3sel w loz w dhan? Awwel 7arf G...",
+    "answer": "ghoriba"
+  },
+  {
+    "id": 444,
+    "riddle": "🗣️ Translate: shhor = ??? (in English)",
+    "answer": "month"
+  },
+  {
+    "id": 445,
+    "riddle": "⌨️ Type exactly: 8ytz7j4",
+    "answer": "8ytz7j4"
+  },
+  {
+    "id": 446,
+    "riddle": "🤔 Kol nhar kanchouf wjhek walakin machi 3endek. Chnou ana?",
+    "answer": "miraya"
+  },
+  {
+    "id": 447,
+    "riddle": "🧮 Hseb: 18 / 6 = ?",
+    "answer": "3"
+  },
+  {
+    "id": 448,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli m3rofa b sa7a ljama3a l fna? Awwel 7arf M...",
+    "answer": "marrakech"
+  },
+  {
+    "id": 449,
+    "riddle": "🗣️ Translate: 3am = ??? (in English)",
+    "answer": "year"
+  },
+  {
+    "id": 450,
+    "riddle": "⌨️ Type exactly: twil",
+    "answer": "twil"
+  },
+  {
+    "id": 451,
+    "riddle": "🤔 Kanjri walakin ma kayshi7ch 7ad. Chnou ana?",
+    "answer": "waqt"
+  },
+  {
+    "id": 452,
+    "riddle": "🧮 Hseb: 38 - 9 = ?",
+    "answer": "29"
+  },
+  {
+    "id": 453,
+    "riddle": "🇲🇦 Chnou hiya l 7rafa lli kaydirouha b tiss w s9f? Awwel 7arf M...",
+    "answer": "moucharabieh"
+  },
+  {
+    "id": 454,
+    "riddle": "🗣️ Translate: sbah = ??? (in English)",
+    "answer": "morning"
+  },
+  {
+    "id": 455,
+    "riddle": "⌨️ Type exactly: vwy7gy6",
+    "answer": "vwy7gy6"
+  },
+  {
+    "id": 456,
+    "riddle": "🤔 Kol nhar kankber walakin machi 3ajuz. Chnou ana?",
+    "answer": "nhar"
+  },
+  {
+    "id": 457,
+    "riddle": "🧮 Hseb: 6 * 10 = ?",
+    "answer": "60"
+  },
+  {
+    "id": 458,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli kayna fiha mzara dyal moulay idriss? Awwel 7arf Z...",
+    "answer": "zerhoun"
+  },
+  {
+    "id": 459,
+    "riddle": "🗣️ Translate: 3chiya = ??? (in English)",
+    "answer": "evening"
+  },
+  {
+    "id": 460,
+    "riddle": "⌨️ Type exactly: 8ve990",
+    "answer": "8ve990"
+  },
+  {
+    "id": 461,
+    "riddle": "🤔 Kanjri walakin ma tatjmad. Chnou ana?",
+    "answer": "nar"
+  },
+  {
+    "id": 462,
+    "riddle": "🧮 Hseb: 8 * 2 = ?",
+    "answer": "16"
+  },
+  {
+    "id": 463,
+    "riddle": "🇲🇦 Chnou hiya l makla maghribiya lli katkhdem f nhar 3id? Awwel 7arf M...",
+    "answer": "mrouzia"
+  },
+  {
+    "id": 464,
+    "riddle": "🗣️ Translate: lil = ??? (in English)",
+    "answer": "night"
+  },
+  {
+    "id": 465,
+    "riddle": "⌨️ Type exactly: zwine",
+    "answer": "zwine"
+  },
+  {
+    "id": 466,
+    "riddle": "🤔 Kol nhar kayji walakin ma kaytkellemch. Chnou ana?",
+    "answer": "bareed"
+  },
+  {
+    "id": 467,
+    "riddle": "🧮 Hseb: 70 + 64 = ?",
+    "answer": "134"
+  },
+  {
+    "id": 468,
+    "riddle": "🇲🇦 Chnou hiya l 7jra lli kaydirouha f zrabi f lmaghrib? Awwel 7arf L...",
+    "answer": "laine"
+  },
+  {
+    "id": 469,
+    "riddle": "🗣️ Translate: nos nhar = ??? (in English)",
+    "answer": "noon"
+  },
+  {
+    "id": 470,
+    "riddle": "⌨️ Type exactly: 549762",
+    "answer": "549762"
+  },
+  {
+    "id": 471,
+    "riddle": "🤔 Kol nhar kanjri f idak. Chnou ana?",
+    "answer": "flous"
+  },
+  {
+    "id": 472,
+    "riddle": "🧮 Hseb: 66 + 26 = ?",
+    "answer": "92"
+  },
+  {
+    "id": 473,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli kayna 3la 9mat jbal? Awwel 7arf I...",
+    "answer": "ifrane"
+  },
+  {
+    "id": 474,
+    "riddle": "🗣️ Translate: ghda = ??? (in English)",
+    "answer": "tomorrow"
+  },
+  {
+    "id": 475,
+    "riddle": "⌨️ Type exactly: yaanq",
+    "answer": "yaanq"
+  },
+  {
+    "id": 476,
+    "riddle": "🤔 Kandwi bzzaf f bit walakin ma 3ndiich lsan. Chnou ana?",
+    "answer": "menfakha"
+  },
+  {
+    "id": 477,
+    "riddle": "🧮 Hseb: 36 / 12 = ?",
+    "answer": "3"
+  },
+  {
+    "id": 478,
+    "riddle": "🇲🇦 Chnou howa l bna9 t9lidi dyal lmaghrib? Awwel 7arf S...",
+    "answer": "selham"
+  },
+  {
+    "id": 479,
+    "riddle": "🗣️ Translate: lbara7 = ??? (in English)",
+    "answer": "yesterday"
+  },
+  {
+    "id": 480,
+    "riddle": "⌨️ Type exactly: 655306",
+    "answer": "655306"
+  },
+  {
+    "id": 481,
+    "riddle": "🤔 3ndi khit walakin machi khayat. Chnou ana?",
+    "answer": "3ankabout"
+  },
+  {
+    "id": 482,
+    "riddle": "🧮 Hseb: 78 - 6 = ?",
+    "answer": "72"
+  },
+  {
+    "id": 483,
+    "riddle": "🇲🇦 Chnou hiya l 3in lli kayna 3la trig dyal nkhlat? Awwel 7arf D...",
+    "answer": "draa"
+  },
+  {
+    "id": 484,
+    "riddle": "🗣️ Translate: daba = ??? (in English)",
+    "answer": "now"
+  },
+  {
+    "id": 485,
+    "riddle": "⌨️ Type exactly: oez41o",
+    "answer": "oez41o"
+  },
+  {
+    "id": 486,
+    "riddle": "🤔 Kol nhar kanahder bzzaf walakin machi insan. Chnou ana?",
+    "answer": "radio"
+  },
+  {
+    "id": 487,
+    "riddle": "🧮 Hseb: 40 / 4 = ?",
+    "answer": "10"
+  },
+  {
+    "id": 488,
+    "riddle": "🇲🇦 Chnou hiya l 7rafa lli kaydirou b l7did f lmaghrib? Awwel 7arf F...",
+    "answer": "ferronnerie"
+  },
+  {
+    "id": 489,
+    "riddle": "🗣️ Translate: mn ba3d = ??? (in English)",
+    "answer": "after"
+  },
+  {
+    "id": 490,
+    "riddle": "⌨️ Type exactly: 316831",
+    "answer": "316831"
+  },
+  {
+    "id": 491,
+    "riddle": "🤔 Kanjri f byout w ma3ndiich rijlin. Chnou ana?",
+    "answer": "sout"
+  },
+  {
+    "id": 492,
+    "riddle": "🧮 Hseb: 76 - 7 = ?",
+    "answer": "69"
+  },
+  {
+    "id": 493,
+    "riddle": "🇲🇦 Chnou hiya l moj9 dyal 9sir f rabat? Awwel 7arf C...",
+    "answer": "chellah"
+  },
+  {
+    "id": 494,
+    "riddle": "🗣️ Translate: 9bel = ??? (in English)",
+    "answer": "before"
+  },
+  {
+    "id": 495,
+    "riddle": "⌨️ Type exactly: 983261",
+    "answer": "983261"
+  },
+  {
+    "id": 496,
+    "riddle": "🤔 3ndi bab w shibbak walakin machi dar. Chnou ana?",
+    "answer": "ktab"
+  },
+  {
+    "id": 497,
+    "riddle": "🧮 Hseb: 80 / 8 = ?",
+    "answer": "10"
+  },
+  {
+    "id": 498,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli kayna fiha moul hassan 2? Awwel 7arf C...",
+    "answer": "casablanca"
+  },
+  {
+    "id": 499,
+    "riddle": "🗣️ Translate: ma3a = ??? (in English)",
+    "answer": "with"
+  },
+  {
+    "id": 500,
+    "riddle": "⌨️ Type exactly: zh9ic",
+    "answer": "zh9ic"
+  },
+  {
+    "id": 501,
+    "riddle": "🤔 3ndi tijara f kol zanka. Chnou ana?",
+    "answer": "telephone"
+  },
+  {
+    "id": 502,
+    "riddle": "🧮 Hseb: 21 / 7 = ?",
+    "answer": "3"
+  },
+  {
+    "id": 503,
+    "riddle": "🇲🇦 Chnou hiya l mdina l9dima lli kayna f wist marrakech? Awwel 7arf M...",
+    "answer": "medina"
+  },
+  {
+    "id": 504,
+    "riddle": "🗣️ Translate: bla = ??? (in English)",
+    "answer": "without"
+  },
+  {
+    "id": 505,
+    "riddle": "⌨️ Type exactly: 363240",
+    "answer": "363240"
+  },
+  {
+    "id": 506,
+    "riddle": "🤔 Kanjri mn ras jbal l qa3 bla ta3ab. Chnou ana?",
+    "answer": "lma"
+  },
+  {
+    "id": 507,
+    "riddle": "🧮 Hseb: 9 * 9 = ?",
+    "answer": "81"
+  },
+  {
+    "id": 508,
+    "riddle": "🇲🇦 Chnou howa l ghna lli kaydirouH l3ibad f 3id milad? Awwel 7arf M...",
+    "answer": "mawal"
+  },
+  {
+    "id": 509,
+    "riddle": "🗣️ Translate: fi = ??? (in English)",
+    "answer": "in"
+  },
+  {
+    "id": 510,
+    "riddle": "⌨️ Type exactly: 370245",
+    "answer": "370245"
+  },
+  {
+    "id": 511,
+    "riddle": "🤔 Kol nhar kaytla3 w kayghib. Chnou ana?",
+    "answer": "shems"
+  },
+  {
+    "id": 512,
+    "riddle": "🧮 Hseb: 80 - 4 = ?",
+    "answer": "76"
+  },
+  {
+    "id": 513,
+    "riddle": "🇲🇦 Chnou hiya l 7elwa lli kaydirouha men smid w zit? Awwel 7arf F...",
+    "answer": "fekkas"
+  },
+  {
+    "id": 514,
+    "riddle": "🗣️ Translate: 3la = ??? (in English)",
+    "answer": "on"
+  },
+  {
+    "id": 515,
+    "riddle": "⌨️ Type exactly: 351237",
+    "answer": "351237"
+  },
+  {
+    "id": 516,
+    "riddle": "🤔 3ndi ras walakin machi insan. Chnou ana?",
+    "answer": "dabbous"
+  },
+  {
+    "id": 517,
+    "riddle": "🧮 Hseb: 73 + 84 = ?",
+    "answer": "157"
+  },
+  {
+    "id": 518,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli kayna fiha port agadir l9dim? Awwel 7arf A...",
+    "answer": "agadir"
+  },
+  {
+    "id": 519,
+    "riddle": "🗣️ Translate: ta7t = ??? (in English)",
+    "answer": "under"
+  },
+  {
+    "id": 520,
+    "riddle": "⌨️ Type exactly: 183332",
+    "answer": "183332"
+  },
+  {
+    "id": 521,
+    "riddle": "🤔 Kanbqa m3ak dima walakin machi s7abek. Chnou ana?",
+    "answer": "dell"
+  },
+  {
+    "id": 522,
+    "riddle": "🧮 Hseb: 12 * 5 = ?",
+    "answer": "60"
+  },
+  {
+    "id": 523,
+    "riddle": "🇲🇦 Chnou hiya l madina lli kayna fuq rif? Awwel 7arf C...",
+    "answer": "chefchaouen"
+  },
+  {
+    "id": 524,
+    "riddle": "🗣️ Translate: fuq = ??? (in English)",
+    "answer": "above"
+  },
+  {
+    "id": 525,
+    "riddle": "⌨️ Type exactly: ng9o7stk",
+    "answer": "ng9o7stk"
+  },
+  {
+    "id": 526,
+    "riddle": "🤔 Kansma3 kolchi walakin machi udun. Chnou ana?",
+    "answer": "micro"
+  },
+  {
+    "id": 527,
+    "riddle": "🧮 Hseb: 46 + 67 = ?",
+    "answer": "113"
+  },
+  {
+    "id": 528,
+    "riddle": "🇲🇦 Chnou hiya l 9arya lli kaydirouha f dyal atlas? Awwel 7arf I...",
+    "answer": "imilchil"
+  },
+  {
+    "id": 529,
+    "riddle": "🗣️ Translate: 9dam = ??? (in English)",
+    "answer": "in front"
+  },
+  {
+    "id": 530,
+    "riddle": "⌨️ Type exactly: s7i7",
+    "answer": "s7i7"
+  },
+  {
+    "id": 531,
+    "riddle": "🤔 Kol nhar kayji s7i7, kol lila kayji mrid. Chnou ana?",
+    "answer": "shems"
+  },
+  {
+    "id": 532,
+    "riddle": "🧮 Hseb: 4 * 2 = ?",
+    "answer": "8"
+  },
+  {
+    "id": 533,
+    "riddle": "🇲🇦 Chnou howa l wadi lli kayna f rif? Awwel 7arf N...",
+    "answer": "nkor"
+  },
+  {
+    "id": 534,
+    "riddle": "🗣️ Translate: mora = ??? (in English)",
+    "answer": "behind"
+  },
+  {
+    "id": 535,
+    "riddle": "⌨️ Type exactly: 9alam",
+    "answer": "9alam"
+  },
+  {
+    "id": 536,
+    "riddle": "🤔 3ndi sniya tqouti walakin machi 7did. Chnou ana?",
+    "answer": "lisan"
+  },
+  {
+    "id": 537,
+    "riddle": "🧮 Hseb: 64 + 94 = ?",
+    "answer": "158"
+  },
+  {
+    "id": 538,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli 3andha 7da2iq lra7ma? Awwel 7arf F...",
+    "answer": "fes"
+  },
+  {
+    "id": 539,
+    "riddle": "🗣️ Translate: yimna = ??? (in English)",
+    "answer": "right"
+  },
+  {
+    "id": 540,
+    "riddle": "⌨️ Type exactly: 294788",
+    "answer": "294788"
+  },
+  {
+    "id": 541,
+    "riddle": "🤔 Kandkhel f bab walakin machi zayour. Chnou ana?",
+    "answer": "miftah"
+  },
+  {
+    "id": 542,
+    "riddle": "🧮 Hseb: 70 / 10 = ?",
+    "answer": "7"
+  },
+  {
+    "id": 543,
+    "riddle": "🇲🇦 Chnou howa l moussem lli kaydaro kol 3am f imilchil? Awwel 7arf M...",
+    "answer": "moussem"
+  },
+  {
+    "id": 544,
+    "riddle": "🗣️ Translate: yisra = ??? (in English)",
+    "answer": "left"
+  },
+  {
+    "id": 545,
+    "riddle": "⌨️ Type exactly: oz6h",
+    "answer": "oz6h"
+  },
+  {
+    "id": 546,
+    "riddle": "🤔 3ndi 60 weld walakin machi lwalid. Chnou ana?",
+    "answer": "sa3a"
+  },
+  {
+    "id": 547,
+    "riddle": "🧮 Hseb: 12 + 89 = ?",
+    "answer": "101"
+  },
+  {
+    "id": 548,
+    "riddle": "🇲🇦 Chnou hiya l 9arya lli m3rofa b amlou w argan? Awwel 7arf T...",
+    "answer": "tiznit"
+  },
+  {
+    "id": 549,
+    "riddle": "🗣️ Translate: fuq = ??? (in English)",
+    "answer": "up"
+  },
+  {
+    "id": 550,
+    "riddle": "⌨️ Type exactly: 571583",
+    "answer": "571583"
+  },
+  {
+    "id": 551,
+    "riddle": "🤔 3ndi loyan bzzaf walakin machi charif. Chnou ana?",
+    "answer": "7bal"
+  },
+  {
+    "id": 552,
+    "riddle": "🧮 Hseb: 16 + 42 = ?",
+    "answer": "58"
+  },
+  {
+    "id": 553,
+    "riddle": "🇲🇦 Chnou hiya l madina lli m3rofa b jbilat rif? Awwel 7arf K...",
+    "answer": "ketama"
+  },
+  {
+    "id": 554,
+    "riddle": "🗣️ Translate: ta7t = ??? (in English)",
+    "answer": "down"
+  },
+  {
+    "id": 555,
+    "riddle": "⌨️ Type exactly: 148068",
+    "answer": "148068"
+  },
+  {
+    "id": 556,
+    "riddle": "🤔 3ndi sha3r tawil walakin machi mra. Chnou ana?",
+    "answer": "7san"
+  },
+  {
+    "id": 557,
+    "riddle": "🧮 Hseb: 44 - 7 = ?",
+    "answer": "37"
+  },
+  {
+    "id": 558,
+    "riddle": "🇲🇦 Chnou howa l msjed lli m3rouf b minara dyalou f marrakech? Awwel 7arf K...",
+    "answer": "koutoubia"
+  },
+  {
+    "id": 559,
+    "riddle": "🗣️ Translate: hna = ??? (in English)",
+    "answer": "here"
+  },
+  {
+    "id": 560,
+    "riddle": "⌨️ Type exactly: upa6",
+    "answer": "upa6"
+  },
+  {
+    "id": 561,
+    "riddle": "🤔 Kandkhel f ma walakin ma kanblach. Chnou ana?",
+    "answer": "shmis"
+  },
+  {
+    "id": 562,
+    "riddle": "🧮 Hseb: 79 - 7 = ?",
+    "answer": "72"
+  },
+  {
+    "id": 563,
+    "riddle": "🇲🇦 Chnou hiya l 7elwa lli kaydirou mn smid f mawlid? Awwel 7arf A...",
+    "answer": "asida"
+  },
+  {
+    "id": 564,
+    "riddle": "🗣️ Translate: tmma = ??? (in English)",
+    "answer": "there"
+  },
+  {
+    "id": 565,
+    "riddle": "⌨️ Type exactly: 458644",
+    "answer": "458644"
+  },
+  {
+    "id": 566,
+    "riddle": "🤔 3ndi snin kbira walakin machi moum. Chnou ana?",
+    "answer": "naja7"
+  },
+  {
+    "id": 567,
+    "riddle": "🧮 Hseb: 6 * 7 = ?",
+    "answer": "42"
+  },
+  {
+    "id": 568,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli kayna 9dam lbhar l'abyad? Awwel 7arf N...",
+    "answer": "nador"
+  },
+  {
+    "id": 569,
+    "riddle": "🗣️ Translate: fin = ??? (in English)",
+    "answer": "where"
+  },
+  {
+    "id": 570,
+    "riddle": "⌨️ Type exactly: 575204",
+    "answer": "575204"
+  },
+  {
+    "id": 571,
+    "riddle": "🤔 3ndi tijara walakin machi ta9ir. Chnou ana?",
+    "answer": "souk"
+  },
+  {
+    "id": 572,
+    "riddle": "🧮 Hseb: 10 - 2 = ?",
+    "answer": "8"
+  },
+  {
+    "id": 573,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli m3rofa b trin l'kbir? Awwel 7arf O...",
+    "answer": "oujda"
+  },
+  {
+    "id": 574,
+    "riddle": "🗣️ Translate: mnin = ??? (in English)",
+    "answer": "from where"
+  },
+  {
+    "id": 575,
+    "riddle": "⌨️ Type exactly: qydo",
+    "answer": "qydo"
+  },
+  {
+    "id": 576,
+    "riddle": "🤔 3ndi snin kbira walakin ma kankhdemch. Chnou ana?",
+    "answer": "kanza"
+  },
+  {
+    "id": 577,
+    "riddle": "🧮 Hseb: 86 - 7 = ?",
+    "answer": "79"
+  },
+  {
+    "id": 578,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli kayna fuq jbal zarhoun? Awwel 7arf M...",
+    "answer": "moulay idriss"
+  },
+  {
+    "id": 579,
+    "riddle": "🗣️ Translate: kifach = ??? (in English)",
+    "answer": "how"
+  },
+  {
+    "id": 580,
+    "riddle": "⌨️ Type exactly: 961934",
+    "answer": "961934"
+  },
+  {
+    "id": 581,
+    "riddle": "🤔 Kanbqa 3ndek walakin ma 3endekch. Chnou ana?",
+    "answer": "dell"
+  },
+  {
+    "id": 582,
+    "riddle": "🧮 Hseb: 11 + 9 = ?",
+    "answer": "20"
+  },
+  {
+    "id": 583,
+    "riddle": "🇲🇦 Chnou hiya l makla lli kaydirouha f 3id l fitr f s7a7? Awwel 7arf B...",
+    "answer": "baghrir"
+  },
+  {
+    "id": 584,
+    "riddle": "🗣️ Translate: chkoun = ??? (in English)",
+    "answer": "who"
+  },
+  {
+    "id": 585,
+    "riddle": "⌨️ Type exactly: fuq",
+    "answer": "fuq"
+  },
+  {
+    "id": 586,
+    "riddle": "🤔 Kol nhar kandwi walakin machi ydir 7aja ghalet. Chnou ana?",
+    "answer": "dmir"
+  },
+  {
+    "id": 587,
+    "riddle": "🧮 Hseb: 91 - 1 = ?",
+    "answer": "90"
+  },
+  {
+    "id": 588,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli kayna 3la 7doud l'jazair? Awwel 7arf O...",
+    "answer": "oujda"
+  },
+  {
+    "id": 589,
+    "riddle": "🗣️ Translate: chnou = ??? (in English)",
+    "answer": "what"
+  },
+  {
+    "id": 590,
+    "riddle": "⌨️ Type exactly: 779131",
+    "answer": "779131"
+  },
+  {
+    "id": 591,
+    "riddle": "🤔 3ndi 3ynin walakin ma kandirch chi 7aja. Chnou ana?",
+    "answer": "tswira"
+  },
+  {
+    "id": 592,
+    "riddle": "🧮 Hseb: 74 + 96 = ?",
+    "answer": "170"
+  },
+  {
+    "id": 593,
+    "riddle": "🇲🇦 Chnou howa l 7aiwan lli kaykhdemouH f s7ra? Awwel 7arf J...",
+    "answer": "jmal"
+  },
+  {
+    "id": 594,
+    "riddle": "🗣️ Translate: 3lach = ??? (in English)",
+    "answer": "why"
+  },
+  {
+    "id": 595,
+    "riddle": "⌨️ Type exactly: 140764",
+    "answer": "140764"
+  },
+  {
+    "id": 596,
+    "riddle": "🤔 Kanjri bla rijlin w kats9at bla yidin. Chnou ana?",
+    "answer": "matar"
+  },
+  {
+    "id": 597,
+    "riddle": "🧮 Hseb: 26 - 6 = ?",
+    "answer": "20"
+  },
+  {
+    "id": 598,
+    "riddle": "🇲🇦 Chnou hiya l loghba t9lidiya lli kaylabou biha drari f lmaghrib? Awwel 7arf T...",
+    "answer": "tbarza"
+  },
+  {
+    "id": 599,
+    "riddle": "🗣️ Translate: wach = ??? (in English)",
+    "answer": "is it"
+  },
+  {
+    "id": 600,
+    "riddle": "⌨️ Type exactly: 561292",
+    "answer": "561292"
+  },
+  {
+    "id": 601,
+    "riddle": "🤔 3ndi sout walakin machi insan. Chnou ana?",
+    "answer": "jrs"
+  },
+  {
+    "id": 602,
+    "riddle": "🧮 Hseb: 40 - 6 = ?",
+    "answer": "34"
+  },
+  {
+    "id": 603,
+    "riddle": "🇲🇦 Chnou hiya l 7rafa lli kaydirou b l9atan f lmaghrib? Awwel 7arf T...",
+    "answer": "tissage"
+  },
+  {
+    "id": 604,
+    "riddle": "🗣️ Translate: iyeh = ??? (in English)",
+    "answer": "yes"
+  },
+  {
+    "id": 605,
+    "riddle": "⌨️ Type exactly: 878848",
+    "answer": "878848"
+  },
+  {
+    "id": 606,
+    "riddle": "🤔 Kol nhar kanfta7 w kansakker. Chnou ana?",
+    "answer": "3yen"
+  },
+  {
+    "id": 607,
+    "riddle": "🧮 Hseb: 30 + 78 = ?",
+    "answer": "108"
+  },
+  {
+    "id": 608,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli kayna fiha mi9yas dyal l7arara f lmaghrib? Awwel 7arf I...",
+    "answer": "ifrane"
+  },
+  {
+    "id": 609,
+    "riddle": "🗣️ Translate: la = ??? (in English)",
+    "answer": "no"
+  },
+  {
+    "id": 610,
+    "riddle": "⌨️ Type exactly: 0kd45f",
+    "answer": "0kd45f"
+  },
+  {
+    "id": 611,
+    "riddle": "🤔 Kanbqa 7arr walakin machi 7uma. Chnou ana?",
+    "answer": "shems"
+  },
+  {
+    "id": 612,
+    "riddle": "🧮 Hseb: 26 - 2 = ?",
+    "answer": "24"
+  },
+  {
+    "id": 613,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli m3rofa b derb l7ajjaj? Awwel 7arf F...",
+    "answer": "fes"
+  },
+  {
+    "id": 614,
+    "riddle": "🗣️ Translate: mzyan = ??? (in English)",
+    "answer": "good"
+  },
+  {
+    "id": 615,
+    "riddle": "⌨️ Type exactly: 3udfz",
+    "answer": "3udfz"
+  },
+  {
+    "id": 616,
+    "riddle": "🤔 Kolchi kaydkhouli walakin mahad kaykhroujch. Chnou ana?",
+    "answer": "sinya"
+  },
+  {
+    "id": 617,
+    "riddle": "🧮 Hseb: 24 / 12 = ?",
+    "answer": "2"
+  },
+  {
+    "id": 618,
+    "riddle": "🇲🇦 Chnou howa l 7jab lli kaylerbs f lmaghrib? Awwel 7arf H...",
+    "answer": "hijab"
+  },
+  {
+    "id": 619,
+    "riddle": "🗣️ Translate: saha = ??? (in English)",
+    "answer": "health"
+  },
+  {
+    "id": 620,
+    "riddle": "⌨️ Type exactly: 639146",
+    "answer": "639146"
+  },
+  {
+    "id": 621,
+    "riddle": "🤔 3ndi flous walakin machi bank. Chnou ana?",
+    "answer": "kanza"
+  },
+  {
+    "id": 622,
+    "riddle": "🧮 Hseb: 94 - 8 = ?",
+    "answer": "86"
+  },
+  {
+    "id": 623,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli 3andha bab l7ammar? Awwel 7arf M...",
+    "answer": "marrakech"
+  },
+  {
+    "id": 624,
+    "riddle": "🗣️ Translate: 7nana = ??? (in English)",
+    "answer": "tenderness"
+  },
+  {
+    "id": 625,
+    "riddle": "⌨️ Type exactly: la bas",
+    "answer": "la bas"
+  },
+  {
+    "id": 626,
+    "riddle": "🤔 Kol nhar kanbeyen walakin machi show. Chnou ana?",
+    "answer": "shems"
+  },
+  {
+    "id": 627,
+    "riddle": "🧮 Hseb: 76 - 5 = ?",
+    "answer": "71"
+  },
+  {
+    "id": 628,
+    "riddle": "🇲🇦 Chnou hiya l9di9a lli kaydirou 3la jedar f lmaghrib? Awwel 7arf Z...",
+    "answer": "zellige"
+  },
+  {
+    "id": 629,
+    "riddle": "🗣️ Translate: 9dra = ??? (in English)",
+    "answer": "ability"
+  },
+  {
+    "id": 630,
+    "riddle": "⌨️ Type exactly: 6l10",
+    "answer": "6l10"
+  },
+  {
+    "id": 631,
+    "riddle": "🤔 Kol nhar kanchouf walakin machi basira. Chnou ana?",
+    "answer": "tswira"
+  },
+  {
+    "id": 632,
+    "riddle": "🧮 Hseb: 56 + 20 = ?",
+    "answer": "76"
+  },
+  {
+    "id": 633,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli kayna 3la shi9 wadi sebou? Awwel 7arf K...",
+    "answer": "kenitra"
+  },
+  {
+    "id": 634,
+    "riddle": "🗣️ Translate: b9a = ??? (in English)",
+    "answer": "stayed"
+  },
+  {
+    "id": 635,
+    "riddle": "⌨️ Type exactly: khfif",
+    "answer": "khfif"
+  },
+  {
+    "id": 636,
+    "riddle": "🤔 3ndi s7ab bzzaf walakin machi insan. Chnou ana?",
+    "answer": "shajra"
+  },
+  {
+    "id": 637,
+    "riddle": "🧮 Hseb: 12 + 63 = ?",
+    "answer": "75"
+  },
+  {
+    "id": 638,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli kayna 3la shi9 atlantik lli m3rofa b serdine? Awwel 7arf S...",
+    "answer": "safi"
+  },
+  {
+    "id": 639,
+    "riddle": "🗣️ Translate: mcha = ??? (in English)",
+    "answer": "went"
+  },
+  {
+    "id": 640,
+    "riddle": "⌨️ Type exactly: 950890",
+    "answer": "950890"
+  },
+  {
+    "id": 641,
+    "riddle": "🤔 3ndi 3ynin walakin ma kanchofch. Chnou ana?",
+    "answer": "abra"
+  },
+  {
+    "id": 642,
+    "riddle": "🧮 Hseb: 42 + 57 = ?",
+    "answer": "99"
+  },
+  {
+    "id": 643,
+    "riddle": "🇲🇦 Chnou hiya l 7elwa lli kaydirouha mn d9i9 w 3sel? Awwel 7arf M...",
+    "answer": "mssemen"
+  },
+  {
+    "id": 644,
+    "riddle": "🗣️ Translate: ja = ??? (in English)",
+    "answer": "came"
+  },
+  {
+    "id": 645,
+    "riddle": "⌨️ Type exactly: shhor",
+    "answer": "shhor"
+  },
+  {
+    "id": 646,
+    "riddle": "🤔 Kantfakkar men ghir 3aqel. Chnou ana?",
+    "answer": "computer"
+  },
+  {
+    "id": 647,
+    "riddle": "🧮 Hseb: 2 * 7 = ?",
+    "answer": "14"
+  },
+  {
+    "id": 648,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f chamal, bla7a 3la shi9 lbhar l'abyad. Awwel 7arf T...",
+    "answer": "tanger"
+  },
+  {
+    "id": 649,
+    "riddle": "🗣️ Translate: gal = ??? (in English)",
+    "answer": "said"
+  },
+  {
+    "id": 650,
+    "riddle": "⌨️ Type exactly: tmma",
+    "answer": "tmma"
+  },
+  {
+    "id": 651,
+    "riddle": "🤔 Kol nhar kaytla3 mn sama walakin machi tir. Chnou ana?",
+    "answer": "matar"
+  },
+  {
+    "id": 652,
+    "riddle": "🧮 Hseb: 16 / 8 = ?",
+    "answer": "2"
+  },
+  {
+    "id": 653,
+    "riddle": "🇲🇦 Mdina maghribiya hiya 3asima dyal lmaghrib. Awwel 7arf R...",
+    "answer": "rabat"
+  },
+  {
+    "id": 654,
+    "riddle": "🗣️ Translate: sme3 = ??? (in English)",
+    "answer": "heard"
+  },
+  {
+    "id": 655,
+    "riddle": "⌨️ Type exactly: 687656",
+    "answer": "687656"
+  },
+  {
+    "id": 656,
+    "riddle": "🤔 3ndi miftah walakin machi bab. Chnou ana?",
+    "answer": "piano"
+  },
+  {
+    "id": 657,
+    "riddle": "🧮 Hseb: 46 + 14 = ?",
+    "answer": "60"
+  },
+  {
+    "id": 658,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f chamal, m3rofa b medina diyalha l'qdima w blghrisiyyin. Awwel 7arf T...",
+    "answer": "tetouan"
+  },
+  {
+    "id": 659,
+    "riddle": "🗣️ Translate: chaf = ??? (in English)",
+    "answer": "saw"
+  },
+  {
+    "id": 660,
+    "riddle": "⌨️ Type exactly: 228814",
+    "answer": "228814"
+  },
+  {
+    "id": 661,
+    "riddle": "🤔 Kandkhel f zanka bzzaf walakin machi nas. Chnou ana?",
+    "answer": "hawa"
+  },
+  {
+    "id": 662,
+    "riddle": "🧮 Hseb: 20 / 10 = ?",
+    "answer": "2"
+  },
+  {
+    "id": 663,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f wist lmaghrib, m3rofa b chjar zitoun. Awwel 7arf M...",
+    "answer": "meknes"
+  },
+  {
+    "id": 664,
+    "riddle": "🗣️ Translate: kla = ??? (in English)",
+    "answer": "ate"
+  },
+  {
+    "id": 665,
+    "riddle": "⌨️ Type exactly: 511118",
+    "answer": "511118"
+  },
+  {
+    "id": 666,
+    "riddle": "🤔 3ndi snin walakin machi 3ajuz. Chnou ana?",
+    "answer": "shajra"
+  },
+  {
+    "id": 667,
+    "riddle": "🧮 Hseb: 24 - 8 = ?",
+    "answer": "16"
+  },
+  {
+    "id": 668,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f sharq, 3andha jami3a l'qdima f l3alam. Awwel 7arf F...",
+    "answer": "fes"
+  },
+  {
+    "id": 669,
+    "riddle": "🗣️ Translate: shreb = ??? (in English)",
+    "answer": "drank"
+  },
+  {
+    "id": 670,
+    "riddle": "⌨️ Type exactly: r41fd3xw",
+    "answer": "r41fd3xw"
+  },
+  {
+    "id": 671,
+    "riddle": "🤔 Kanshreb bla 7laqum. Chnou ana?",
+    "answer": "ar9"
+  },
+  {
+    "id": 672,
+    "riddle": "🧮 Hseb: 10 * 9 = ?",
+    "answer": "90"
+  },
+  {
+    "id": 673,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f jnoub, bla7a 3la kasba w derb. Awwel 7arf O...",
+    "answer": "ouarzazate"
+  },
+  {
+    "id": 674,
+    "riddle": "🗣️ Translate: nam = ??? (in English)",
+    "answer": "slept"
+  },
+  {
+    "id": 675,
+    "riddle": "⌨️ Type exactly: 213109",
+    "answer": "213109"
+  },
+  {
+    "id": 676,
+    "riddle": "🤔 Kolchi 3endou walakin ma kaybanhch. Chnou ana?",
+    "answer": "khater"
+  },
+  {
+    "id": 677,
+    "riddle": "🧮 Hseb: 40 / 10 = ?",
+    "answer": "4"
+  },
+  {
+    "id": 678,
+    "riddle": "🇲🇦 Mdina maghribiya kayna 3la shi9 l'atlantik, m3rofa b lhawt. Awwel 7arf A...",
+    "answer": "agadir"
+  },
+  {
+    "id": 679,
+    "riddle": "🗣️ Translate: 9ra = ??? (in English)",
+    "answer": "read"
+  },
+  {
+    "id": 680,
+    "riddle": "⌨️ Type exactly: fo8v",
+    "answer": "fo8v"
+  },
+  {
+    "id": 681,
+    "riddle": "🤔 Ana kanji men s7ar w kanji men nhar. Chnou ana?",
+    "answer": "daw"
+  },
+  {
+    "id": 682,
+    "riddle": "🧮 Hseb: 5 * 10 = ?",
+    "answer": "50"
+  },
+  {
+    "id": 683,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f jnoub, 9rib mn s7ra, m3rofa b nkhlat. Awwel 7arf Z...",
+    "answer": "zagora"
+  },
+  {
+    "id": 684,
+    "riddle": "🗣️ Translate: kteb = ??? (in English)",
+    "answer": "wrote"
+  },
+  {
+    "id": 685,
+    "riddle": "⌨️ Type exactly: 286434",
+    "answer": "286434"
+  },
+  {
+    "id": 686,
+    "riddle": "🤔 3ndi miya ras walakin machi 7shish. Chnou ana?",
+    "answer": "tbq"
+  },
+  {
+    "id": 687,
+    "riddle": "🧮 Hseb: 79 + 18 = ?",
+    "answer": "97"
+  },
+  {
+    "id": 688,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f wist, m3rofa b jami3 lkotobiya. Awwel 7arf M...",
+    "answer": "marrakech"
+  },
+  {
+    "id": 689,
+    "riddle": "🗣️ Translate: 3ref = ??? (in English)",
+    "answer": "knew"
+  },
+  {
+    "id": 690,
+    "riddle": "⌨️ Type exactly: mrhba",
+    "answer": "mrhba"
+  },
+  {
+    "id": 691,
+    "riddle": "🤔 3ndi bab walakin machi dar. Chnou ana?",
+    "answer": "ref"
+  },
+  {
+    "id": 692,
+    "riddle": "🧮 Hseb: 77 / 7 = ?",
+    "answer": "11"
+  },
+  {
+    "id": 693,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f char9. Awwel 7arf O...",
+    "answer": "oujda"
+  },
+  {
+    "id": 694,
+    "riddle": "🗣️ Translate: nsi = ??? (in English)",
+    "answer": "forgot"
+  },
+  {
+    "id": 695,
+    "riddle": "⌨️ Type exactly: ubp00m",
+    "answer": "ubp00m"
+  },
+  {
+    "id": 696,
+    "riddle": "🤔 Kandkhel m3ak lhomam walakin ma kanra7ch. Chnou ana?",
+    "answer": "tisaboun"
+  },
+  {
+    "id": 697,
+    "riddle": "🧮 Hseb: 60 / 6 = ?",
+    "answer": "10"
+  },
+  {
+    "id": 698,
+    "riddle": "🇲🇦 Mdina maghribiya kayna 3la shi9 lbhar, m3rofa b mina diyalha l'kbira. Awwel 7arf C...",
+    "answer": "casablanca"
+  },
+  {
+    "id": 699,
+    "riddle": "🗣️ Translate: r7em = ??? (in English)",
+    "answer": "mercy"
+  },
+  {
+    "id": 700,
+    "riddle": "⌨️ Type exactly: 530307",
+    "answer": "530307"
+  },
+  {
+    "id": 701,
+    "riddle": "🤔 Kol nhar kaytla3 w ma kayti7ch 7ta. Chnou ana?",
+    "answer": "dkhkhan"
+  },
+  {
+    "id": 702,
+    "riddle": "🧮 Hseb: 7 * 9 = ?",
+    "answer": "63"
+  },
+  {
+    "id": 703,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f rif, m3rofa b lwa z-zin. Awwel 7arf A...",
+    "answer": "al hoceima"
+  },
+  {
+    "id": 704,
+    "riddle": "🗣️ Translate: sbr = ??? (in English)",
+    "answer": "patience"
+  },
+  {
+    "id": 705,
+    "riddle": "⌨️ Type exactly: malik",
+    "answer": "malik"
+  },
+  {
+    "id": 706,
+    "riddle": "🤔 3ndi loun akhdar walakin machi nbata. Chnou ana?",
+    "answer": "zujaj"
+  },
+  {
+    "id": 707,
+    "riddle": "🧮 Hseb: 32 + 87 = ?",
+    "answer": "119"
+  },
+  {
+    "id": 708,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f s7ra, m3rofa b 3erg chebbi. Awwel 7arf M...",
+    "answer": "merzouga"
+  },
+  {
+    "id": 709,
+    "riddle": "🗣️ Translate: 7sin = ??? (in English)",
+    "answer": "beautiful"
+  },
+  {
+    "id": 710,
+    "riddle": "⌨️ Type exactly: l46d2qub",
+    "answer": "l46d2qub"
+  },
+  {
+    "id": 711,
+    "riddle": "🤔 Kol nhar kayji men l3ali walakin machi ttayra. Chnou ana?",
+    "answer": "matar"
+  },
+  {
+    "id": 712,
+    "riddle": "🧮 Hseb: 9 / 3 = ?",
+    "answer": "3"
+  },
+  {
+    "id": 713,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f janub gharbi. Awwel 7arf L...",
+    "answer": "laayoune"
+  },
+  {
+    "id": 714,
+    "riddle": "🗣️ Translate: mdina = ??? (in English)",
+    "answer": "city"
+  },
+  {
+    "id": 715,
+    "riddle": "⌨️ Type exactly: 873999",
+    "answer": "873999"
+  },
+  {
+    "id": 716,
+    "riddle": "🤔 Katjri walakin machi 7iwan. Chnou ana?",
+    "answer": "lma"
+  },
+  {
+    "id": 717,
+    "riddle": "🧮 Hseb: 32 - 9 = ?",
+    "answer": "23"
+  },
+  {
+    "id": 718,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f wist, m3rofa b sbab atlas. Awwel 7arf B...",
+    "answer": "beni mellal"
+  },
+  {
+    "id": 719,
+    "riddle": "🗣️ Translate: 9rya = ??? (in English)",
+    "answer": "village"
+  },
+  {
+    "id": 720,
+    "riddle": "⌨️ Type exactly: bzzaf",
+    "answer": "bzzaf"
+  },
+  {
+    "id": 721,
+    "riddle": "🤔 3ndi bzzaf dyal fayda walakin machi dawa. Chnou ana?",
+    "answer": "ma"
+  },
+  {
+    "id": 722,
+    "riddle": "🧮 Hseb: 13 - 6 = ?",
+    "answer": "7"
+  },
+  {
+    "id": 723,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f jnoub sharqi, m3rofa b gorge dyal dadess. Awwel 7arf T...",
+    "answer": "tinghir"
+  },
+  {
+    "id": 724,
+    "riddle": "🗣️ Translate: zanka = ??? (in English)",
+    "answer": "street"
+  },
+  {
+    "id": 725,
+    "riddle": "⌨️ Type exactly: h9h0",
+    "answer": "h9h0"
+  },
+  {
+    "id": 726,
+    "riddle": "🤔 3ndi ras tqila walakin machi ras dyal insan. Chnou ana?",
+    "answer": "martou"
+  },
+  {
+    "id": 727,
+    "riddle": "🧮 Hseb: 61 + 54 = ?",
+    "answer": "115"
+  },
+  {
+    "id": 728,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f gharb. Awwel 7arf S...",
+    "answer": "safi"
+  },
+  {
+    "id": 729,
+    "riddle": "🗣️ Translate: swi9a = ??? (in English)",
+    "answer": "market"
+  },
+  {
+    "id": 730,
+    "riddle": "⌨️ Type exactly: 682540",
+    "answer": "682540"
+  },
+  {
+    "id": 731,
+    "riddle": "🤔 Kol nhar kanjri f idak walakin machi flous. Chnou ana?",
+    "answer": "waqt"
+  },
+  {
+    "id": 732,
+    "riddle": "🧮 Hseb: 62 + 65 = ?",
+    "answer": "127"
+  },
+  {
+    "id": 733,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f chamal, m3rofa b lwa z-zraq. Awwel 7arf C...",
+    "answer": "chefchaouen"
+  },
+  {
+    "id": 734,
+    "riddle": "🗣️ Translate: 7nut = ??? (in English)",
+    "answer": "shop"
+  },
+  {
+    "id": 735,
+    "riddle": "⌨️ Type exactly: tm70bv",
+    "answer": "tm70bv"
+  },
+  {
+    "id": 736,
+    "riddle": "🤔 3ndi snin bzaf walakin machi 3juz. Chnou ana?",
+    "answer": "jibal"
+  },
+  {
+    "id": 737,
+    "riddle": "🧮 Hseb: 56 - 5 = ?",
+    "answer": "51"
+  },
+  {
+    "id": 738,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f gharb, m3rofa b chor w r-ri7. Awwel 7arf E...",
+    "answer": "essaouira"
+  },
+  {
+    "id": 739,
+    "riddle": "🗣️ Translate: blasa = ??? (in English)",
+    "answer": "place"
+  },
+  {
+    "id": 740,
+    "riddle": "⌨️ Type exactly: 397769",
+    "answer": "397769"
+  },
+  {
+    "id": 741,
+    "riddle": "🤔 Kandwi bzzaf walakin machi motor. Chnou ana?",
+    "answer": "ba7ar"
+  },
+  {
+    "id": 742,
+    "riddle": "🧮 Hseb: 30 + 24 = ?",
+    "answer": "54"
+  },
+  {
+    "id": 743,
+    "riddle": "🇲🇦 Mdina maghribiya kayna f jnoub, m3rofa b tafilalt. Awwel 7arf E...",
+    "answer": "erfoud"
+  },
+  {
+    "id": 744,
+    "riddle": "🗣️ Translate: bab = ??? (in English)",
+    "answer": "door"
+  },
+  {
+    "id": 745,
+    "riddle": "⌨️ Type exactly: 656696",
+    "answer": "656696"
+  },
+  {
+    "id": 746,
+    "riddle": "🤔 3ndi ktaf bla rijlin. Chnou ana?",
+    "answer": "jibal"
+  },
+  {
+    "id": 747,
+    "riddle": "🧮 Hseb: 84 / 12 = ?",
+    "answer": "7"
+  },
+  {
+    "id": 748,
+    "riddle": "🇲🇦 Chnou howa l akel maghribi lli kaydir b l7out w khdar w z3fran? Awwel 7arf C...",
+    "answer": "chermoula"
+  },
+  {
+    "id": 749,
+    "riddle": "🗣️ Translate: shbbak = ??? (in English)",
+    "answer": "window"
+  },
+  {
+    "id": 750,
+    "riddle": "⌨️ Type exactly: xxr6nc6",
+    "answer": "xxr6nc6"
+  },
+  {
+    "id": 751,
+    "riddle": "🤔 Ana kanji men lmaya walakin machi samaka. Chnou ana?",
+    "answer": "nbata"
+  },
+  {
+    "id": 752,
+    "riddle": "🧮 Hseb: 2 * 9 = ?",
+    "answer": "18"
+  },
+  {
+    "id": 753,
+    "riddle": "🇲🇦 Chnou hiya l7elwa maghribiya lli kaydiroha mn l3sel w loz? Awwel 7arf C...",
+    "answer": "chebakia"
+  },
+  {
+    "id": 754,
+    "riddle": "🗣️ Translate: 7it = ??? (in English)",
+    "answer": "wall"
+  },
+  {
+    "id": 755,
+    "riddle": "⌨️ Type exactly: ghda",
+    "answer": "ghda"
+  },
+  {
+    "id": 756,
+    "riddle": "🤔 Kol nhar kayakhlu walakin ma kayfnach. Chnou ana?",
+    "answer": "nhar"
+  },
+  {
+    "id": 757,
+    "riddle": "🧮 Hseb: 62 - 8 = ?",
+    "answer": "54"
+  },
+  {
+    "id": 758,
+    "riddle": "🇲🇦 Chnou hiya l makla maghribiya lli katdir f wra9 dyal 3jina? Awwel 7arf B...",
+    "answer": "briouate"
+  },
+  {
+    "id": 759,
+    "riddle": "🗣️ Translate: sir = ??? (in English)",
+    "answer": "secret"
+  },
+  {
+    "id": 760,
+    "riddle": "⌨️ Type exactly: 14n1lm",
+    "answer": "14n1lm"
+  },
+  {
+    "id": 761,
+    "riddle": "🤔 Ana 3ndi rijlin walakin machi insan wala 7aywan. Chnou ana?",
+    "answer": "tabla"
+  },
+  {
+    "id": 762,
+    "riddle": "🧮 Hseb: 5 * 9 = ?",
+    "answer": "45"
+  },
+  {
+    "id": 763,
+    "riddle": "🇲🇦 Chnou howa shrab maghribi m3rouf kaydirouH b na3na3? Awwel 7arf A...",
+    "answer": "atay"
+  },
+  {
+    "id": 764,
+    "riddle": "🗣️ Translate: niya = ??? (in English)",
+    "answer": "intention"
+  },
+  {
+    "id": 765,
+    "riddle": "⌨️ Type exactly: 615432",
+    "answer": "615432"
+  },
+  {
+    "id": 766,
+    "riddle": "🤔 Ana 3ndi 3ynin walakin ma kandirch chi 7aja. Chnou ana?",
+    "answer": "tswira"
+  },
+  {
+    "id": 767,
+    "riddle": "🧮 Hseb: 27 - 4 = ?",
+    "answer": "23"
+  },
+  {
+    "id": 768,
+    "riddle": "🇲🇦 Chnou hiya l7elwa maghribiya lli kaydiroha f 3id? Awwel 7arf K...",
+    "answer": "kaab el ghzal"
+  },
+  {
+    "id": 769,
+    "riddle": "🗣️ Translate: 3qel = ??? (in English)",
+    "answer": "mind"
+  },
+  {
+    "id": 770,
+    "riddle": "⌨️ Type exactly: oe8a3og",
+    "answer": "oe8a3og"
+  },
+  {
+    "id": 771,
+    "riddle": "🤔 Kol nhar kayji men l3ali walakin machi mal3ab. Chnou ana?",
+    "answer": "matar"
+  },
+  {
+    "id": 772,
+    "riddle": "🧮 Hseb: 76 - 2 = ?",
+    "answer": "74"
+  },
+  {
+    "id": 773,
+    "riddle": "🇲🇦 Chnou howa l festival m3rouf kaydaro f marrakech kol 3am? Awwel 7arf F...",
+    "answer": "festival gnaoua"
+  },
+  {
+    "id": 774,
+    "riddle": "🗣️ Translate: rja = ??? (in English)",
+    "answer": "hope"
+  },
+  {
+    "id": 775,
+    "riddle": "⌨️ Type exactly: 591094",
+    "answer": "591094"
+  },
+  {
+    "id": 776,
+    "riddle": "🤔 3ndi khibra kbira walakin machi kbir. Chnou ana?",
+    "answer": "encyclopedie"
+  },
+  {
+    "id": 777,
+    "riddle": "🧮 Hseb: 45 / 9 = ?",
+    "answer": "5"
+  },
+  {
+    "id": 778,
+    "riddle": "🇲🇦 Chnou hiya l7ayk maghribi lli katlebsou nsa? Awwel 7arf J...",
+    "answer": "jellaba"
+  },
+  {
+    "id": 779,
+    "riddle": "🗣️ Translate: 7a9 = ??? (in English)",
+    "answer": "right"
+  },
+  {
+    "id": 780,
+    "riddle": "⌨️ Type exactly: 852523",
+    "answer": "852523"
+  },
+  {
+    "id": 781,
+    "riddle": "🤔 3ndi dar kbira walakin ma 3ndiich bab. Chnou ana?",
+    "answer": "bida"
+  },
+  {
+    "id": 782,
+    "riddle": "🧮 Hseb: 62 + 24 = ?",
+    "answer": "86"
+  },
+  {
+    "id": 783,
+    "riddle": "🇲🇦 Chnou hiya l7ayk maghribi lli kaylbsou rjal f 3id? Awwel 7arf D...",
+    "answer": "djellaba"
+  },
+  {
+    "id": 784,
+    "riddle": "🗣️ Translate: batl = ??? (in English)",
+    "answer": "false"
+  },
+  {
+    "id": 785,
+    "riddle": "⌨️ Type exactly: 3r6whao",
+    "answer": "3r6whao"
+  },
+  {
+    "id": 786,
+    "riddle": "🤔 3ndi snin bla 3mer, w kanji kol 3am jdid. Chnou ana?",
+    "answer": "tarix"
+  },
+  {
+    "id": 787,
+    "riddle": "🧮 Hseb: 24 / 6 = ?",
+    "answer": "4"
+  },
+  {
+    "id": 788,
+    "riddle": "🇲🇦 Chnou howa l felsa3 dyal lmaghrib? Awwel 7arf D...",
+    "answer": "dirham"
+  },
+  {
+    "id": 789,
+    "riddle": "🗣️ Translate: s7i7 = ??? (in English)",
+    "answer": "true"
+  },
+  {
+    "id": 790,
+    "riddle": "⌨️ Type exactly: 9y846",
+    "answer": "9y846"
+  },
+  {
+    "id": 791,
+    "riddle": "🤔 Kol nhar kaybqa f bitik walakin machi 7da. Chnou ana?",
+    "answer": "daw"
+  },
+  {
+    "id": 792,
+    "riddle": "🧮 Hseb: 22 - 2 = ?",
+    "answer": "20"
+  },
+  {
+    "id": 793,
+    "riddle": "🇲🇦 Chnou howa jbal l'akbar f lmaghrib? Awwel 7arf T...",
+    "answer": "toubkal"
+  },
+  {
+    "id": 794,
+    "riddle": "🗣️ Translate: kif = ??? (in English)",
+    "answer": "how"
+  },
+  {
+    "id": 795,
+    "riddle": "⌨️ Type exactly: g057gw1",
+    "answer": "g057gw1"
+  },
+  {
+    "id": 796,
+    "riddle": "🤔 3ndi 7aja tasda3 w 7aja t3awek. Chnou ana?",
+    "answer": "midfa3"
+  },
+  {
+    "id": 797,
+    "riddle": "🧮 Hseb: 54 / 6 = ?",
+    "answer": "9"
+  },
+  {
+    "id": 798,
+    "riddle": "🇲🇦 Chnou howa l bhar lli kayna 3la yimna dyal lmaghrib? Awwel 7arf M...",
+    "answer": "mediterrane"
+  },
+  {
+    "id": 799,
+    "riddle": "🗣️ Translate: wqila = ??? (in English)",
+    "answer": "maybe"
+  },
+  {
+    "id": 800,
+    "riddle": "⌨️ Type exactly: 964100",
+    "answer": "964100"
+  },
+  {
+    "id": 801,
+    "riddle": "🤔 Kol ma bghiti tsra3, zad khmek. Chnou ana?",
+    "answer": "7bel"
+  },
+  {
+    "id": 802,
+    "riddle": "🧮 Hseb: 29 - 2 = ?",
+    "answer": "27"
+  },
+  {
+    "id": 803,
+    "riddle": "🇲🇦 Chnou howa l nahr l'akbar f lmaghrib? Awwel 7arf O...",
+    "answer": "oum rbia"
+  },
+  {
+    "id": 804,
+    "riddle": "🗣️ Translate: zid = ??? (in English)",
+    "answer": "more"
+  },
+  {
+    "id": 805,
+    "riddle": "⌨️ Type exactly: 812658",
+    "answer": "812658"
+  },
+  {
+    "id": 806,
+    "riddle": "🤔 3ndi louja kbira walakin machi mara. Chnou ana?",
+    "answer": "mdar"
+  },
+  {
+    "id": 807,
+    "riddle": "🧮 Hseb: 108 / 12 = ?",
+    "answer": "9"
+  },
+  {
+    "id": 808,
+    "riddle": "🇲🇦 Chnou hiya l jami3a l'qdima f l3alam kayna f fas? Awwel 7arf Q...",
+    "answer": "qarawiyin"
+  },
+  {
+    "id": 809,
+    "riddle": "🗣️ Translate: n9es = ??? (in English)",
+    "answer": "less"
+  },
+  {
+    "id": 810,
+    "riddle": "⌨️ Type exactly: 584604",
+    "answer": "584604"
+  },
+  {
+    "id": 811,
+    "riddle": "🤔 3ndi flous walakin ma kandirch tijariti bih. Chnou ana?",
+    "answer": "waqt"
+  },
+  {
+    "id": 812,
+    "riddle": "🧮 Hseb: 41 + 89 = ?",
+    "answer": "130"
+  },
+  {
+    "id": 813,
+    "riddle": "🇲🇦 Chnou hiya l medina lli m3rofa b darb debbaghin? Awwel 7arf F...",
+    "answer": "fes"
+  },
+  {
+    "id": 814,
+    "riddle": "🗣️ Translate: bzzaf = ??? (in English)",
+    "answer": "a lot"
+  },
+  {
+    "id": 815,
+    "riddle": "⌨️ Type exactly: 731442",
+    "answer": "731442"
+  },
+  {
+    "id": 816,
+    "riddle": "🤔 Ana 3ndi 3 loun walakin machi 9ous 9za7. Chnou ana?",
+    "answer": "trafik"
+  },
+  {
+    "id": 817,
+    "riddle": "🧮 Hseb: 10 / 5 = ?",
+    "answer": "2"
+  },
+  {
+    "id": 818,
+    "riddle": "🇲🇦 Chnou howa l 7aiwan lli kayn 3la dirham dyal 50? Awwel 7arf A...",
+    "answer": "asad"
+  },
+  {
+    "id": 819,
+    "riddle": "🗣️ Translate: chwiya = ??? (in English)",
+    "answer": "a little"
+  },
+  {
+    "id": 820,
+    "riddle": "⌨️ Type exactly: o44asd1r",
+    "answer": "o44asd1r"
+  },
+  {
+    "id": 821,
+    "riddle": "🤔 Ana kanji w kanmchi kol nhar bla stop. Chnou ana?",
+    "answer": "waqt"
+  },
+  {
+    "id": 822,
+    "riddle": "🧮 Hseb: 79 + 96 = ?",
+    "answer": "175"
+  },
+  {
+    "id": 823,
+    "riddle": "🇲🇦 Chnou hiya l makla maghribiya lli katdir b l7out w khmira f ramadan? Awwel 7arf H...",
+    "answer": "harira"
+  },
+  {
+    "id": 824,
+    "riddle": "🗣️ Translate: kolchi = ??? (in English)",
+    "answer": "everything"
+  },
+  {
+    "id": 825,
+    "riddle": "⌨️ Type exactly: 538968",
+    "answer": "538968"
+  },
+  {
+    "id": 826,
+    "riddle": "🤔 3ndi shba3 f yidik walakin machi 7ut. Chnou ana?",
+    "answer": "gaffa"
+  },
+  {
+    "id": 827,
+    "riddle": "🧮 Hseb: 60 - 3 = ?",
+    "answer": "57"
+  },
+  {
+    "id": 828,
+    "riddle": "🇲🇦 Chnou hiya l madina lli kayna fiha jami3 l'koutoubia? Awwel 7arf M...",
+    "answer": "marrakech"
+  },
+  {
+    "id": 829,
+    "riddle": "🗣️ Translate: walo = ??? (in English)",
+    "answer": "nothing"
+  },
+  {
+    "id": 830,
+    "riddle": "⌨️ Type exactly: 452135",
+    "answer": "452135"
+  },
+  {
+    "id": 831,
+    "riddle": "🤔 Kanbqa f dar walakin makandkhelf 7ayta. Chnou ana?",
+    "answer": "sout"
+  },
+  {
+    "id": 832,
+    "riddle": "🧮 Hseb: 26 - 9 = ?",
+    "answer": "17"
+  },
+  {
+    "id": 833,
+    "riddle": "🇲🇦 Chnou hiya l5a9 dyal soq lli kayen f fas? Awwel 7arf M...",
+    "answer": "medina"
+  },
+  {
+    "id": 834,
+    "riddle": "🗣️ Translate: 7da = ??? (in English)",
+    "answer": "someone"
+  },
+  {
+    "id": 835,
+    "riddle": "⌨️ Type exactly: 935376",
+    "answer": "935376"
+  },
+  {
+    "id": 836,
+    "riddle": "🤔 Kol nhar kayhder m3ak walakin machi s7abek. Chnou ana?",
+    "answer": "radio"
+  },
+  {
+    "id": 837,
+    "riddle": "🧮 Hseb: 15 / 3 = ?",
+    "answer": "5"
+  },
+  {
+    "id": 838,
+    "riddle": "🇲🇦 Chnou howa l festival dyal gnaoua lli kaydaro f essaouira? Awwel 7arf G...",
+    "answer": "gnaoua"
+  },
+  {
+    "id": 839,
+    "riddle": "🗣️ Translate: 7ta 7da = ??? (in English)",
+    "answer": "nobody"
+  },
+  {
+    "id": 840,
+    "riddle": "⌨️ Type exactly: 7lwa",
+    "answer": "7lwa"
+  },
+  {
+    "id": 841,
+    "riddle": "🤔 3ndi wjeh w yidin walakin machi insan. Chnou ana?",
+    "answer": "sa3a"
+  },
+  {
+    "id": 842,
+    "riddle": "🧮 Hseb: 7 * 7 = ?",
+    "answer": "49"
+  },
+  {
+    "id": 843,
+    "riddle": "🇲🇦 Chnou hiya l makla maghribiya lli katdir b l7out f tajin? Awwel 7arf T...",
+    "answer": "tajin"
+  },
+  {
+    "id": 844,
+    "riddle": "🗣️ Translate: ma3a = ??? (in English)",
+    "answer": "with"
+  },
+  {
+    "id": 845,
+    "riddle": "⌨️ Type exactly: nhar",
+    "answer": "nhar"
+  },
+  {
+    "id": 846,
+    "riddle": "🤔 Kaydkhel f bitik bla ijazat kol nhar. Chnou ana?",
+    "answer": "daw"
+  },
+  {
+    "id": 847,
+    "riddle": "🧮 Hseb: 48 - 9 = ?",
+    "answer": "39"
+  },
+  {
+    "id": 848,
+    "riddle": "🇲🇦 Chnou howa l wadi lli kaymir mn atlas l bhar? Awwel 7arf D...",
+    "answer": "draa"
+  },
+  {
+    "id": 849,
+    "riddle": "🗣️ Translate: 3la bal = ??? (in English)",
+    "answer": "be careful"
+  },
+  {
+    "id": 850,
+    "riddle": "⌨️ Type exactly: 744269",
+    "answer": "744269"
+  },
+  {
+    "id": 851,
+    "riddle": "🤔 Ana m3ak f kol foto walakin machi nta. Chnou ana?",
+    "answer": "dell"
+  },
+  {
+    "id": 852,
+    "riddle": "🧮 Hseb: 7 * 12 = ?",
+    "answer": "84"
+  },
+  {
+    "id": 853,
+    "riddle": "🇲🇦 Chnou hiya l qbi3a t9lidiya maghribiya? Awwel 7arf T...",
+    "answer": "tarbouch"
+  },
+  {
+    "id": 854,
+    "riddle": "🗣️ Translate: r7al = ??? (in English)",
+    "answer": "journey"
+  },
+  {
+    "id": 855,
+    "riddle": "⌨️ Type exactly: 9sir",
+    "answer": "9sir"
+  },
+  {
+    "id": 856,
+    "riddle": "🤔 Kol ma kbersh, zad kbersh. Chnou ana?",
+    "answer": "7ofra"
+  },
+  {
+    "id": 857,
+    "riddle": "🧮 Hseb: 73 - 1 = ?",
+    "answer": "72"
+  },
+  {
+    "id": 858,
+    "riddle": "🇲🇦 Chnou howa l 3id lli kaydabho fih lmaghribin l7ansh? Awwel 7arf A...",
+    "answer": "aid lakbar"
+  },
+  {
+    "id": 859,
+    "riddle": "🗣️ Translate: msafir = ??? (in English)",
+    "answer": "traveler"
+  },
+  {
+    "id": 860,
+    "riddle": "⌨️ Type exactly: mv7jbgr",
+    "answer": "mv7jbgr"
+  },
+  {
+    "id": 861,
+    "riddle": "🤔 Kol nhar kaytla3 mn lbhar walakin ma kaybellach. Chnou ana?",
+    "answer": "shems"
+  },
+  {
+    "id": 862,
+    "riddle": "🧮 Hseb: 89 - 7 = ?",
+    "answer": "82"
+  },
+  {
+    "id": 863,
+    "riddle": "🇲🇦 Chnou hiya l henna maghribiya lli katdir 3la yidin? Awwel 7arf H...",
+    "answer": "henna"
+  },
+  {
+    "id": 864,
+    "riddle": "🗣️ Translate: s7ab = ??? (in English)",
+    "answer": "friend"
+  },
+  {
+    "id": 865,
+    "riddle": "⌨️ Type exactly: 995354",
+    "answer": "995354"
+  },
+  {
+    "id": 866,
+    "riddle": "🤔 3ndi 7a9 walakin machi insan. Chnou ana?",
+    "answer": "7iwan"
+  },
+  {
+    "id": 867,
+    "riddle": "🧮 Hseb: 16 - 1 = ?",
+    "answer": "15"
+  },
+  {
+    "id": 868,
+    "riddle": "🇲🇦 Chnou hiya l zrabi maghribiya l'mshhoura? Awwel 7arf R...",
+    "answer": "rbati"
+  },
+  {
+    "id": 869,
+    "riddle": "🗣️ Translate: 3du = ??? (in English)",
+    "answer": "enemy"
+  },
+  {
+    "id": 870,
+    "riddle": "⌨️ Type exactly: 575932",
+    "answer": "575932"
+  },
+  {
+    "id": 871,
+    "riddle": "🤔 Kol nhar kaykhdem walakin ma kayakhod raha. Chnou ana?",
+    "answer": "9alb"
+  },
+  {
+    "id": 872,
+    "riddle": "🧮 Hseb: 72 - 2 = ?",
+    "answer": "70"
+  },
+  {
+    "id": 873,
+    "riddle": "🇲🇦 Chnou hiya l ghorfa l7ammam f dar maghribiya? Awwel 7arf H...",
+    "answer": "hammam"
+  },
+  {
+    "id": 874,
+    "riddle": "🗣️ Translate: 3ayla = ??? (in English)",
+    "answer": "family"
+  },
+  {
+    "id": 875,
+    "riddle": "⌨️ Type exactly: g8f1",
+    "answer": "g8f1"
+  },
+  {
+    "id": 876,
+    "riddle": "🤔 3ndi bzzaf dyal 7jrat walakin machi fondouq. Chnou ana?",
+    "answer": "rman"
+  },
+  {
+    "id": 877,
+    "riddle": "🧮 Hseb: 47 + 17 = ?",
+    "answer": "64"
+  },
+  {
+    "id": 878,
+    "riddle": "🇲🇦 Chnou howa l ghna maghribi l9dim lli kayghniw fih m3a l3od? Awwel 7arf A...",
+    "answer": "andaloussi"
+  },
+  {
+    "id": 879,
+    "riddle": "🗣️ Translate: lwalid = ??? (in English)",
+    "answer": "father"
+  },
+  {
+    "id": 880,
+    "riddle": "⌨️ Type exactly: 176249",
+    "answer": "176249"
+  },
+  {
+    "id": 881,
+    "riddle": "🤔 Kanjri bla benzine. Chnou ana?",
+    "answer": "lma"
+  },
+  {
+    "id": 882,
+    "riddle": "🧮 Hseb: 8 * 7 = ?",
+    "answer": "56"
+  },
+  {
+    "id": 883,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli 3andha laman9a l aqdima f lmaghrib? Awwel 7arf V...",
+    "answer": "volubilis"
+  },
+  {
+    "id": 884,
+    "riddle": "🗣️ Translate: lwalida = ??? (in English)",
+    "answer": "mother"
+  },
+  {
+    "id": 885,
+    "riddle": "⌨️ Type exactly: 7q2r",
+    "answer": "7q2r"
+  },
+  {
+    "id": 886,
+    "riddle": "🤔 3ndi 7dit bla 7did. Chnou ana?",
+    "answer": "lisan"
+  },
+  {
+    "id": 887,
+    "riddle": "🧮 Hseb: 7 * 11 = ?",
+    "answer": "77"
+  },
+  {
+    "id": 888,
+    "riddle": "🇲🇦 Chnou hiya l7elwa lli kaydiroha mn smid w dhan? Awwel 7arf S...",
+    "answer": "sellou"
+  },
+  {
+    "id": 889,
+    "riddle": "🗣️ Translate: khu = ??? (in English)",
+    "answer": "brother"
+  },
+  {
+    "id": 890,
+    "riddle": "⌨️ Type exactly: 421438",
+    "answer": "421438"
+  },
+  {
+    "id": 891,
+    "riddle": "🤔 Kayji men l3ali walakin machi njoum. Chnou ana?",
+    "answer": "matar"
+  },
+  {
+    "id": 892,
+    "riddle": "🧮 Hseb: 91 - 9 = ?",
+    "answer": "82"
+  },
+  {
+    "id": 893,
+    "riddle": "🇲🇦 Chnou hiya l lbsa t9lidiya lli katlbsouha l3aroussat? Awwel 7arf T...",
+    "answer": "takchita"
+  },
+  {
+    "id": 894,
+    "riddle": "🗣️ Translate: kht = ??? (in English)",
+    "answer": "sister"
+  },
+  {
+    "id": 895,
+    "riddle": "⌨️ Type exactly: 678386",
+    "answer": "678386"
+  },
+  {
+    "id": 896,
+    "riddle": "🤔 Kol nhar kaybqa m3ak walakin 7tta s7abek ma kayshofhouch. Chnou ana?",
+    "answer": "dell"
+  },
+  {
+    "id": 897,
+    "riddle": "🧮 Hseb: 18 / 3 = ?",
+    "answer": "6"
+  },
+  {
+    "id": 898,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli kayna fiha sqala dyal qdima? Awwel 7arf E...",
+    "answer": "essaouira"
+  },
+  {
+    "id": 899,
+    "riddle": "🗣️ Translate: jdda = ??? (in English)",
+    "answer": "grandmother"
+  },
+  {
+    "id": 900,
+    "riddle": "⌨️ Type exactly: 816781",
+    "answer": "816781"
+  },
+  {
+    "id": 901,
+    "riddle": "🤔 3ndi bab walakin machi bit. Chnou ana?",
+    "answer": "ktab"
+  },
+  {
+    "id": 902,
+    "riddle": "🧮 Hseb: 99 + 52 = ?",
+    "answer": "151"
+  },
+  {
+    "id": 903,
+    "riddle": "🇲🇦 Chnou hiya l 7adiqa l kayna f rabat m3rofa b nkhlat? Awwel 7arf J...",
+    "answer": "jardins exotiques"
+  },
+  {
+    "id": 904,
+    "riddle": "🗣️ Translate: jdd = ??? (in English)",
+    "answer": "grandfather"
+  },
+  {
+    "id": 905,
+    "riddle": "⌨️ Type exactly: 458860",
+    "answer": "458860"
+  },
+  {
+    "id": 906,
+    "riddle": "🤔 Kol nhar kaykhdem bla raha. Chnou ana?",
+    "answer": "9alb"
+  },
+  {
+    "id": 907,
+    "riddle": "🧮 Hseb: 10 + 52 = ?",
+    "answer": "62"
+  },
+  {
+    "id": 908,
+    "riddle": "🇲🇦 Chnou howa l msjed l akbar f lmaghrib? Awwel 7arf H...",
+    "answer": "hassan 2"
+  },
+  {
+    "id": 909,
+    "riddle": "🗣️ Translate: 3m = ??? (in English)",
+    "answer": "uncle"
+  },
+  {
+    "id": 910,
+    "riddle": "⌨️ Type exactly: 268867",
+    "answer": "268867"
+  },
+  {
+    "id": 911,
+    "riddle": "🤔 Kandkhel f 3inik walakin machi trab. Chnou ana?",
+    "answer": "daw"
+  },
+  {
+    "id": 912,
+    "riddle": "🧮 Hseb: 56 / 7 = ?",
+    "answer": "8"
+  },
+  {
+    "id": 913,
+    "riddle": "🇲🇦 Chnou hiya l moji9a t9lidiya dyal gnaoua? Awwel 7arf L...",
+    "answer": "lila"
+  },
+  {
+    "id": 914,
+    "riddle": "🗣️ Translate: 3mma = ??? (in English)",
+    "answer": "aunt"
+  },
+  {
+    "id": 915,
+    "riddle": "⌨️ Type exactly: 5ci5nop",
+    "answer": "5ci5nop"
+  },
+  {
+    "id": 916,
+    "riddle": "🤔 3ndi thiyan bla hrir. Chnou ana?",
+    "answer": "shoka"
+  },
+  {
+    "id": 917,
+    "riddle": "🧮 Hseb: 86 + 39 = ?",
+    "answer": "125"
+  },
+  {
+    "id": 918,
+    "riddle": "🇲🇦 Chnou howa l sobban lli kaydirou mn argan? Awwel 7arf H...",
+    "answer": "huile d argan"
+  },
+  {
+    "id": 919,
+    "riddle": "🗣️ Translate: weld = ??? (in English)",
+    "answer": "son"
+  },
+  {
+    "id": 920,
+    "riddle": "⌨️ Type exactly: gz83g",
+    "answer": "gz83g"
+  },
+  {
+    "id": 921,
+    "riddle": "🤔 Kol nhar kayji w kayji walakin ma kaykhdemch 7ad. Chnou ana?",
+    "answer": "waqt"
+  },
+  {
+    "id": 922,
+    "riddle": "🧮 Hseb: 64 - 1 = ?",
+    "answer": "63"
+  },
+  {
+    "id": 923,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli kayna fiha bab l mansour? Awwel 7arf M...",
+    "answer": "meknes"
+  },
+  {
+    "id": 924,
+    "riddle": "🗣️ Translate: bent = ??? (in English)",
+    "answer": "daughter"
+  },
+  {
+    "id": 925,
+    "riddle": "⌨️ Type exactly: 525377",
+    "answer": "525377"
+  },
+  {
+    "id": 926,
+    "riddle": "🤔 3ndi ras sghira bzzaf walakin kayder kter mn nas. Chnou ana?",
+    "answer": "computer"
+  },
+  {
+    "id": 927,
+    "riddle": "🧮 Hseb: 59 + 10 = ?",
+    "answer": "69"
+  },
+  {
+    "id": 928,
+    "riddle": "🇲🇦 Chnou hiya l makla lli kaydirouha f 3id l fitr? Awwel 7arf H...",
+    "answer": "harira"
+  },
+  {
+    "id": 929,
+    "riddle": "🗣️ Translate: rajel = ??? (in English)",
+    "answer": "man"
+  },
+  {
+    "id": 930,
+    "riddle": "⌨️ Type exactly: 658059",
+    "answer": "658059"
+  },
+  {
+    "id": 931,
+    "riddle": "🤔 Kan3ti dou walakin ana machi shemsia. Chnou ana?",
+    "answer": "telfaz"
+  },
+  {
+    "id": 932,
+    "riddle": "🧮 Hseb: 2 * 3 = ?",
+    "answer": "6"
+  },
+  {
+    "id": 933,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli 3andha mellah l9dim? Awwel 7arf F...",
+    "answer": "fes"
+  },
+  {
+    "id": 934,
+    "riddle": "🗣️ Translate: mra = ??? (in English)",
+    "answer": "woman"
+  },
+  {
+    "id": 935,
+    "riddle": "⌨️ Type exactly: sa3a",
+    "answer": "sa3a"
+  },
+  {
+    "id": 936,
+    "riddle": "🤔 Kol nhar kanbeyen walakin machi rssam. Chnou ana?",
+    "answer": "shems"
+  },
+  {
+    "id": 937,
+    "riddle": "🧮 Hseb: 33 / 11 = ?",
+    "answer": "3"
+  },
+  {
+    "id": 938,
+    "riddle": "🇲🇦 Chnou hiya l 3in lli kayna f ifrane? Awwel 7arf A...",
+    "answer": "atlas"
+  },
+  {
+    "id": 939,
+    "riddle": "🗣️ Translate: drari = ??? (in English)",
+    "answer": "kids"
+  },
+  {
+    "id": 940,
+    "riddle": "⌨️ Type exactly: 847v5",
+    "answer": "847v5"
+  },
+  {
+    "id": 941,
+    "riddle": "🤔 3ndi dar walakin machi saken. Chnou ana?",
+    "answer": "bida"
+  },
+  {
+    "id": 942,
+    "riddle": "🧮 Hseb: 79 - 8 = ?",
+    "answer": "71"
+  },
+  {
+    "id": 943,
+    "riddle": "🇲🇦 Chnou howa l3id lli kayji mn ba3d ramadan? Awwel 7arf A...",
+    "answer": "aid sghir"
+  },
+  {
+    "id": 944,
+    "riddle": "🗣️ Translate: 3juz = ??? (in English)",
+    "answer": "old man"
+  },
+  {
+    "id": 945,
+    "riddle": "⌨️ Type exactly: pok0cnba",
+    "answer": "pok0cnba"
+  },
+  {
+    "id": 946,
+    "riddle": "🤔 Kayji w kayji walakin ma yshofhouch 7ad. Chnou ana?",
+    "answer": "hawa"
+  },
+  {
+    "id": 947,
+    "riddle": "🧮 Hseb: 11 * 6 = ?",
+    "answer": "66"
+  },
+  {
+    "id": 948,
+    "riddle": "🇲🇦 Chnou hiya l loghba t9lidiya dyal lmaghrib lli kaylabou biha drari? Awwel 7arf B...",
+    "answer": "bendir"
+  },
+  {
+    "id": 949,
+    "riddle": "🗣️ Translate: chab = ??? (in English)",
+    "answer": "young man"
+  },
+  {
+    "id": 950,
+    "riddle": "⌨️ Type exactly: 660094",
+    "answer": "660094"
+  },
+  {
+    "id": 951,
+    "riddle": "🤔 3ndi 7sab walakin machi muhasib. Chnou ana?",
+    "answer": "computer"
+  },
+  {
+    "id": 952,
+    "riddle": "🧮 Hseb: 69 - 3 = ?",
+    "answer": "66"
+  },
+  {
+    "id": 953,
+    "riddle": "🇲🇦 Chnou howa l bnad t9lidi dyal lmaghrib lli 3andou snin kter? Awwel 7arf J...",
+    "answer": "jilala"
+  },
+  {
+    "id": 954,
+    "riddle": "🗣️ Translate: doktour = ??? (in English)",
+    "answer": "doctor"
+  },
+  {
+    "id": 955,
+    "riddle": "⌨️ Type exactly: f8ckaun",
+    "answer": "f8ckaun"
+  },
+  {
+    "id": 956,
+    "riddle": "🤔 Kol nhar kayjri bla ijazat. Chnou ana?",
+    "answer": "waqt"
+  },
+  {
+    "id": 957,
+    "riddle": "🧮 Hseb: 66 / 11 = ?",
+    "answer": "6"
+  },
+  {
+    "id": 958,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli m3rofa b tinjedad w ksour? Awwel 7arf T...",
+    "answer": "tinerhir"
+  },
+  {
+    "id": 959,
+    "riddle": "🗣️ Translate: 7akim = ??? (in English)",
+    "answer": "ruler"
+  },
+  {
+    "id": 960,
+    "riddle": "⌨️ Type exactly: x29fl6",
+    "answer": "x29fl6"
+  },
+  {
+    "id": 961,
+    "riddle": "🤔 3ndi rajl walakin machi msafir. Chnou ana?",
+    "answer": "tabla"
+  },
+  {
+    "id": 962,
+    "riddle": "🧮 Hseb: 97 - 3 = ?",
+    "answer": "94"
+  },
+  {
+    "id": 963,
+    "riddle": "🇲🇦 Chnou hiya l3ayla mlokiya lli 7akmat lmaghrib mn zman? Awwel 7arf A...",
+    "answer": "alaoui"
+  },
+  {
+    "id": 964,
+    "riddle": "🗣️ Translate: tba9 = ??? (in English)",
+    "answer": "floor"
+  },
+  {
+    "id": 965,
+    "riddle": "⌨️ Type exactly: 175098",
+    "answer": "175098"
+  },
+  {
+    "id": 966,
+    "riddle": "🤔 Kol nhar kayna walakin ma kayshofhouch 7ad. Chnou ana?",
+    "answer": "hawa"
+  },
+  {
+    "id": 967,
+    "riddle": "🧮 Hseb: 63 + 93 = ?",
+    "answer": "156"
+  },
+  {
+    "id": 968,
+    "riddle": "🇲🇦 Chnou hiya l madina lli 3andha 9asba w riyadh? Awwel 7arf M...",
+    "answer": "marrakech"
+  },
+  {
+    "id": 969,
+    "riddle": "🗣️ Translate: sensla = ??? (in English)",
+    "answer": "chain"
+  },
+  {
+    "id": 970,
+    "riddle": "⌨️ Type exactly: qdim",
+    "answer": "qdim"
+  },
+  {
+    "id": 971,
+    "riddle": "🤔 Ana 3ndi dar bla bab, w f dakhli kayn lhsab. Chnou ana?",
+    "answer": "lbida"
+  },
+  {
+    "id": 972,
+    "riddle": "🧮 Hseb: 26 + 61 = ?",
+    "answer": "87"
+  },
+  {
+    "id": 973,
+    "riddle": "🇲🇦 Chnou hiya l makla maghribiya lli kati9la f ramadan? Awwel 7arf C...",
+    "answer": "couscous"
+  },
+  {
+    "id": 974,
+    "riddle": "🗣️ Translate: 9fes = ??? (in English)",
+    "answer": "cage"
+  },
+  {
+    "id": 975,
+    "riddle": "⌨️ Type exactly: 27i2c",
+    "answer": "27i2c"
+  },
+  {
+    "id": 976,
+    "riddle": "🤔 Kanjri bla rijlin, w kanherreb bla 3ynin. Chnou ana?",
+    "answer": "lma"
+  },
+  {
+    "id": 977,
+    "riddle": "🧮 Hseb: 6 * 5 = ?",
+    "answer": "30"
+  },
+  {
+    "id": 978,
+    "riddle": "🇲🇦 Chnou hiya l 9bi7a dyal argan lli kaydirouha f lmaghrib? Awwel 7arf A...",
+    "answer": "amlou"
+  },
+  {
+    "id": 979,
+    "riddle": "🗣️ Translate: sid = ??? (in English)",
+    "answer": "master"
+  },
+  {
+    "id": 980,
+    "riddle": "⌨️ Type exactly: 15if",
+    "answer": "15if"
+  },
+  {
+    "id": 981,
+    "riddle": "🤔 Kbir mn dar, sghir mn bab. Chnou ana?",
+    "answer": "daw dyal shems"
+  },
+  {
+    "id": 982,
+    "riddle": "🧮 Hseb: 62 - 3 = ?",
+    "answer": "59"
+  },
+  {
+    "id": 983,
+    "riddle": "🇲🇦 Chnou howa l festival dyal roses lli kaydaro kol 3am? Awwel 7arf K...",
+    "answer": "kelaat mgouna"
+  },
+  {
+    "id": 984,
+    "riddle": "🗣️ Translate: ghba = ??? (in English)",
+    "answer": "forest"
+  },
+  {
+    "id": 985,
+    "riddle": "⌨️ Type exactly: ma3a",
+    "answer": "ma3a"
+  },
+  {
+    "id": 986,
+    "riddle": "🤔 Kolchi kaykhafha walakin kolchi kaykhdemha. Chnou hiya?",
+    "answer": "l3naqa"
+  },
+  {
+    "id": 987,
+    "riddle": "🧮 Hseb: 72 / 8 = ?",
+    "answer": "9"
+  },
+  {
+    "id": 988,
+    "riddle": "🇲🇦 Chnou hiya l mdina lli kayna fiha bouhania? Awwel 7arf F...",
+    "answer": "fes"
+  },
+  {
+    "id": 989,
+    "riddle": "🗣️ Translate: wad = ??? (in English)",
+    "answer": "river"
+  },
+  {
+    "id": 990,
+    "riddle": "⌨️ Type exactly: lmdrasa",
+    "answer": "lmdrasa"
+  },
+  {
+    "id": 991,
+    "riddle": "🤔 Kayna f 7it, bla demm bla rit. Chnou ana?",
+    "answer": "zhoura"
+  },
+  {
+    "id": 992,
+    "riddle": "🧮 Hseb: 88 / 11 = ?",
+    "answer": "8"
+  },
+  {
+    "id": 993,
+    "riddle": "🇲🇦 Chnou howa l bahra lli kaymir 3la janoub lmaghrib? Awwel 7arf A...",
+    "answer": "atlantique"
+  },
+  {
+    "id": 994,
+    "riddle": "🗣️ Translate: ghdir = ??? (in English)",
+    "answer": "pond"
+  },
+  {
+    "id": 995,
+    "riddle": "⌨️ Type exactly: 156248",
+    "answer": "156248"
+  },
+  {
+    "id": 996,
+    "riddle": "🤔 Kanmshi m3ak kol fin temshi, walakin ma kanshufksh. Chnou ana?",
+    "answer": "dell diyalek"
+  },
+  {
+    "id": 997,
+    "riddle": "🧮 Hseb: 144 / 12 = ?",
+    "answer": "12"
+  },
+  {
+    "id": 998,
+    "riddle": "🇲🇦 Chnou hiya l 7adiqa lli kayna f marrakech m3rofa b dyal majorelle? Awwel 7arf J...",
+    "answer": "jardin majorelle"
+  },
+  {
+    "id": 999,
+    "riddle": "🗣️ Translate: bir = ??? (in English)",
+    "answer": "well"
+  },
+  {
+    "id": 1000,
+    "riddle": "⌨️ Type exactly: pjhxvw",
+    "answer": "pjhxvw"
+  }
+]
